@@ -1,0 +1,9 @@
+C:\Jagadeswari\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.deps.json
+C:\Jagadeswari\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.dll
+C:\Jagadeswari\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csprojAssemblyReference.cache
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csproj.CoreCompileInputs.cache
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfoInputs.cache
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
+C:\Jagadeswari\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb
