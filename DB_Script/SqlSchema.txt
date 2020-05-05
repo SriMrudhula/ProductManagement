@@ -1,0 +1,27 @@
+     create table UserDetails(
+		UserId int Identity (1,1) PRIMARY KEY,
+	  UserName varchar(30) unique not null,
+	  FirstName varchar(30) not null,
+	  LastName varchar(30) ,
+      UserPassword varchar(30) not null,
+	  EmailAddr varchar(30) not null,
+	  PhoneNumber varchar(13),
+	  CreateDate Datetime not null,
+	  UpdatedDate Datetime,
+	  UserAddress varchar(500));
+	
+
+
+
+  
+	  create table Products(
+ProductId int Identity(1,1) primary key,
+ProductName varchar(50) not null,
+ProductDesc varchar(500),
+ProductPrice decimal not null,
+ProducedDate DateTime not null,
+ProductExpireDate DateTime,
+CreateDate DateTime,
+UpdatedDate DateTime,
+UserId int,Foreign Key(UserId) References UserDetails(UserId))
+           

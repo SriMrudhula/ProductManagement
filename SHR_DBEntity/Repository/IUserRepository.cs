@@ -18,5 +18,6 @@ namespace ProductManagementDBEntity.Repository
         Task<bool> UpdateProfile(UserDetails userDetails);
 
         Task<UserDetails> ViewProfile(int userId);
+        Task<List<UserDetails>> GetAll();
     }
 }

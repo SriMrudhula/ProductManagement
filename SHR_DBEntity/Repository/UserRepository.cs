@@ -86,6 +86,19 @@ namespace UserManagement.Repository
         }
 
 
+        public async Task<List<UserDetails>> GetAll()
+        {
+            try
+            {
+                return await _productDBContext.UserDetails.ToListAsync();
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
+
+
     }
 }
 

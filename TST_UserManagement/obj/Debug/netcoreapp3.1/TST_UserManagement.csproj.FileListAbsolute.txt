@@ -1,0 +1,5 @@
+C:\Jagadeswari\ProductManagement\TST_UserManagement\bin\Debug\netcoreapp3.1\TST_UserManagement.deps.json
+C:\Jagadeswari\ProductManagement\TST_UserManagement\bin\Debug\netcoreapp3.1\TST_UserManagement.dll
+C:\Jagadeswari\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.csprojAssemblyReference.cache
+C:\Jagadeswari\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.AssemblyInfoInputs.cache
+C:\Jagadeswari\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.AssemblyInfo.cs

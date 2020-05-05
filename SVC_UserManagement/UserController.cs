@@ -80,9 +80,9 @@ namespace UserManagement
         }
 
         [HttpGet]
-        [Route("ViewProfile/{userId}")]
+        [Route("GetUser/{userId}")]
 
-        public async Task<IActionResult> ViewProfile(int userId)
+        public async Task<IActionResult> GetUser(int userId)
         {
             try
             {
@@ -96,5 +96,20 @@ namespace UserManagement
         }
 
 
+
+        [HttpGet]
+        [Route("ViewAllUsers")]
+        public async Task<IActionResult> ViewAllUsers()
+        {
+            try
+            {
+                List<UserDetails> userDetails = await _iUserManagementHelper.GetAll();
+                return Ok(userDetails);
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
     }
 }

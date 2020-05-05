@@ -1,0 +1,5 @@
+C:\Jagadeswari\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+C:\Jagadeswari\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+C:\Jagadeswari\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+C:\Jagadeswari\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+C:\Jagadeswari\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs

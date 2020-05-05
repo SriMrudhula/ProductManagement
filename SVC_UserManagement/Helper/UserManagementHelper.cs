@@ -17,6 +17,7 @@ namespace UserManagement.Helper
         Task<bool> UpdateProfile(UserDetails userDetails);
 
         Task<UserDetails> ViewProfile(int userId);
+        Task<List<UserDetails>> GetAll();
 
     }
     public class UserManagementHelper : IUserManagementHelper
@@ -83,6 +84,8 @@ namespace UserManagement.Helper
         }
 
 
+       
+
         public async Task<UserDetails> ViewProfile(int userId)
         {
 
@@ -101,6 +104,18 @@ namespace UserManagement.Helper
                 throw;
             }
 
+        }
+
+        public async Task<List<UserDetails>> GetAll()
+        {
+            try
+            {
+                return await _iUserRepository.GetAll();
+            }
+            catch
+            {
+                throw;
+            }
         }
     }
 }

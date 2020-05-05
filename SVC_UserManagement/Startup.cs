@@ -22,9 +22,10 @@ namespace UserManagement
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IUserRepository, UserRepository>();
-            services.AddTransient<IUserManagementHelper, UserManagementHelper>();
-            services.AddDbContext<ProductDBContext>();
+            services.AddMvc();
+            services.AddSingleton<IUserRepository, UserRepository>();
+            services.AddSingleton<IUserManagementHelper, UserManagementHelper>();
+            services.AddSingleton<ProductDBContext>();
             services.AddControllers();
 
             services.AddSwaggerGen(c =>
