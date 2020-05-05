@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
       "projectName": "SHR_Model",
-      "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\obj\\",
+      "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\ProductManagement\\SHR_Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

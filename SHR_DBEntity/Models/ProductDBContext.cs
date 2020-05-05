@@ -23,7 +23,7 @@ namespace ProductManagementDBEntity.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=DESKTOP-JC6IUA3\\SQLEXPRESS;Database=ProductDB;User Id=sa; Password=12345;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-PRAP6IA\\SQLEXPRESS;Database=ProductDB;User Id=sa; Password=pranavi@1;");
             }
         }
 
@@ -32,7 +32,7 @@ namespace ProductManagementDBEntity.Models
             modelBuilder.Entity<Products>(entity =>
             {
                 entity.HasKey(e => e.ProductId)
-                    .HasName("PK__Products__B40CC6CD363C8926");
+                    .HasName("PK__Products__B40CC6CD69242FD2");
 
                 entity.Property(e => e.CreateDate).HasColumnType("datetime");
 
@@ -62,10 +62,10 @@ namespace ProductManagementDBEntity.Models
             modelBuilder.Entity<UserDetails>(entity =>
             {
                 entity.HasKey(e => e.UserId)
-                    .HasName("PK__UserDeta__1788CC4CB3B7EA46");
+                    .HasName("PK__UserDeta__1788CC4C879DC365");
 
                 entity.HasIndex(e => e.UserName)
-                    .HasName("UQ__UserDeta__C9F284564DA17545")
+                    .HasName("UQ__UserDeta__C9F28456CD956395")
                     .IsUnique();
 
                 entity.Property(e => e.CreateDate).HasColumnType("datetime");

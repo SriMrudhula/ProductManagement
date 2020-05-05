@@ -92,19 +92,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+      "projectUniqueName": "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
       "projectName": "TST_UserManagement",
-      "projectPath": "C:\\Jagadeswari\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "C:\\Jagadeswari\\ProductManagement\\TST_UserManagement\\obj\\",
+      "projectPath": "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\ProductManagement\\TST_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

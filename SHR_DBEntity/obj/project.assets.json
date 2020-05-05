@@ -5012,19 +5012,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
       "projectName": "ProductManagementDBEntity",
-      "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\obj\\",
+      "projectPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5037,8 +5037,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-              "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+            "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+              "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
             }
           }
         }
