@@ -21,10 +21,10 @@ F:\Project\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagem
 F:\Project\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.dll
 F:\Project\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.pdb
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csprojAssemblyReference.cache
-F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CoreCompileInputs.cache
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfoInputs.cache
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfo.cs
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CopyComplete
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
 F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache
+F:\Project\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CoreCompileInputs.cache

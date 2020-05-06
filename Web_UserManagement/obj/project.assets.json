@@ -6071,19 +6071,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\Web_ProductManagement\\MVC_UI.csproj",
+      "projectUniqueName": "F:\\Project\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
       "projectName": "MVC_UI",
-      "projectPath": "C:\\Jagadeswari\\ProductManagement\\Web_ProductManagement\\MVC_UI.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "C:\\Jagadeswari\\ProductManagement\\Web_ProductManagement\\obj\\",
+      "projectPath": "F:\\Project\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\ProductManagement\\Web_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

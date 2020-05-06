@@ -23,9 +23,9 @@ namespace UserManagement
         {
             _iUserManagementHelper = iUserManagementHelper;
         }
-        [HttpPost]
+        
         [Route("UserRegister")]
-
+        [HttpPost]
         public async Task<IActionResult> UserRegister(UserDetails userDetails)
         {
             try
@@ -36,7 +36,7 @@ namespace UserManagement
 
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return NotFound(ex.InnerException.Message);
 
             }
         }
@@ -61,10 +61,8 @@ namespace UserManagement
 
 
 
-
-        [HttpPut]
         [Route("EditProfile")]
-
+        [HttpPut]
         public async Task<IActionResult> EditProfile(UserDetails userDetails)
         {
             try
@@ -96,9 +94,8 @@ namespace UserManagement
         }
 
 
-
-        [HttpGet]
         [Route("ViewAllUsers")]
+        [HttpGet]
         public async Task<IActionResult> ViewAllUsers()
         {
             try
