@@ -10,12 +10,13 @@ namespace ProductManagement.Helper
 
     public interface IProductManagementHelper
     {
+        Task<List<Products>> GetAllProducts();
         Task<bool> AddProduct(Products product);
         Task<List<Products>> GetProducts(int userId);
         Task<bool> UpdateProduct(Products product);
         Task<bool> DeleteProduct(int productId);
     }
-    public class ProductManagementHelper
+    public class ProductManagementHelper : IProductManagementHelper
     {
         private readonly IProductRepository _iProductRepository;
 
@@ -23,6 +24,20 @@ namespace ProductManagement.Helper
         {
             _iProductRepository = iProductRepository;
         }
+
+
+        public async Task<List<Products>> GetAllProducts()
+        {
+            try
+            {
+                return await _iProductRepository.GetAllProducts();
+            }
+            catch
+            {
+                throw;
+            }
+        }
+       
 
         public async Task<bool> AddProduct(Products product)
         {

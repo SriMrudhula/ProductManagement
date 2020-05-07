@@ -30,7 +30,7 @@ namespace UserManagement
             services.AddSingleton<IUserManagementHelper, UserManagementHelper>();
             services.AddSingleton<ProductDBContext>();
             services.AddControllers();
-
+            services.AddControllersWithViews();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
@@ -51,7 +51,7 @@ namespace UserManagement
             }
 
             app.UseRouting();
-
+            app.UseHttpsRedirection();
             //app.UseEndpoints(endpoints =>
             //{
             //    endpoints.MapGet("/", async context =>

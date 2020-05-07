@@ -12,5 +12,6 @@ namespace ProductManagementDBEntity.Repository
         Task<List<Products>> GetProducts(int userId);
         Task<bool> UpdateProduct(Products product);
         Task<bool> DeleteProduct(int productId);
+        Task<List<Products>> GetAllProducts();
     }
 }

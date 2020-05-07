@@ -1,18 +1,14 @@
 ﻿using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 using ProductManagementDBEntity.Models;
-using SHR_Model;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
 namespace TST_UserManagement
 {
-    
-    public class Sqlite 
+   public class Sqlite
     {
-
         public ProductDBContext CreateSqliteConnection()
         {
             var connection = new SqliteConnection("DataSource=:memory:");

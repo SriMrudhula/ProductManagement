@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ProductManagement.Helper;
 using ProductManagementDBEntity.Models;
 using ProductManagementDBEntity.Repository;
 
@@ -11,12 +12,13 @@ using ProductManagementDBEntity.Repository;
 namespace ProductManagement
 {
     [Route("api/v1")]
+    [ApiController]
     public class ProductController : Controller
     {
-        private readonly IProductRepository _productRepository;
-        public ProductController(IProductRepository productRepository)
+        private readonly IProductManagementHelper _iProductManagementHelper;
+        public ProductController(IProductManagementHelper iproductManagementHelper)
         {
-            _productRepository = productRepository;
+            _iProductManagementHelper = iproductManagementHelper;
         }
         /// <summary>
         /// 
@@ -29,7 +31,7 @@ namespace ProductManagement
         {
             try
             {
-                return Ok(await _productRepository.GetProducts(userId));
+                return Ok(await _iProductManagementHelper.GetProducts(userId));
             }
             catch (Exception ex)
             {
@@ -49,12 +51,12 @@ namespace ProductManagement
         {
             try
             {
-                await _productRepository.AddProduct(products);
+                await _iProductManagementHelper.AddProduct(products);
                 return Ok();
             }
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return NotFound(ex.InnerException.Message);
             }
         }
 
@@ -72,7 +74,7 @@ namespace ProductManagement
         {
             try
             {
-                await _productRepository.UpdateProduct(products);
+                await _iProductManagementHelper.UpdateProduct(products);
                 return Ok();
             }
             catch (Exception ex)
@@ -92,12 +94,32 @@ namespace ProductManagement
         {
             try
             {
-                await _productRepository.DeleteProduct(productId);
+                await _iProductManagementHelper.DeleteProduct(productId);
                 return Ok();
             }
             catch (Exception ex)
             {
                 return NotFound(ex.Message);
+            }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="All Products"></param>
+        /// <returns></returns>
+        [Route("GetAllProducts")]
+        [HttpGet]
+        public async Task<IActionResult> GetAllProducts()
+        {
+            try
+            {
+                List<Products> userDetails = await _iProductManagementHelper.GetAllProducts();
+                return Ok(userDetails);
+            }
+            catch (Exception e)
+            {
+                throw;
             }
         }
     }

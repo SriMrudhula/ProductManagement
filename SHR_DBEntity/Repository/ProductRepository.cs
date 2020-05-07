@@ -80,6 +80,19 @@ namespace ProductManagementDBEntity.Repository
                 throw;
             }
         }
+
+        public async Task<List<Products>> GetAllProducts()
+        {
+            try
+            {
+               
+                return await _productDbContext.Products.ToListAsync();
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
     }
 }
 

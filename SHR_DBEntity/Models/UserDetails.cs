@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 namespace ProductManagementDBEntity.Models
 {
@@ -11,7 +10,6 @@ namespace ProductManagementDBEntity.Models
             Products = new HashSet<Products>();
         }
 
-        [Key]
         public int UserId { get; set; }
         public string UserName { get; set; }
         public string FirstName { get; set; }

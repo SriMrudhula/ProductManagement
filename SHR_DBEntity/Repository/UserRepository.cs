@@ -76,8 +76,8 @@ namespace UserManagement.Repository
         {
             try
             {
-                /*                return await _productDBContext.UserDetails.FindAsync(userId);*/
-                return _productDBContext.UserDetails.FromSqlRaw("EXEC dbo.GetUserById @UserId", userId).ToListAsync().Result.FirstOrDefault();
+                  return await _productDBContext.UserDetails.FindAsync(userId);
+                //return _productDBContext.UserDetails.FromSqlRaw("EXEC dbo.GetUserById @UserId", userId).ToListAsync().Result.FirstOrDefault();
             }
             catch (Exception e)
             {
@@ -91,8 +91,8 @@ namespace UserManagement.Repository
         {
             try
             {
-                return await _productDBContext.UserDetails.FromSqlRaw("Exec GetAllUsers").ToListAsync();
-                /*                return await _productDBContext.UserDetails.ToListAsync();*/
+              //  return await _productDBContext.UserDetails.FromSqlRaw("Exec GetAllUsers").ToListAsync();
+                  return await _productDBContext.UserDetails.ToListAsync();
             }
             catch (Exception e)
             {

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TST_UserManagement.Data
 {
-   public class UserDatas
+    public class UserDatas
     {
         public List<UserDetails> userDetails { get; private set; }
         public UserDatas()
