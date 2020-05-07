@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5obaEORBG8iIoB8+VC83l6xjhscsz2pMVUySX9tGvQGMbhSEIYPP2N7TW2/nU31LVJl70wjnFKa2uZUVgHxBg==",
+  "dgSpecHash": "4NI4Xc/BokvSyVPW34+/MgP79+yb26zjjPAdX6f5svqPMFxVFLNx8u+h4CgVASVCu6NUfSi64LUecGCOtQSZ8w==",
   "success": true,
-  "projectFilePath": "F:\\Project\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+  "projectFilePath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

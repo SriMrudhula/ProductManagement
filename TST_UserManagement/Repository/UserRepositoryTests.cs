@@ -15,20 +15,20 @@ namespace ProductTest.Repository
     public class UserRepositoryTests
     {
         private IUserRepository userRepository;
-        private ProductDBContext mockCouponManagementContext;
+        private ProductDBContext mockProductManagementContext;
         private UserDatas mockUserDatas;
         [SetUp]
         public void Setup()
         {
-            mockCouponManagementContext = new Sqlite().CreateSqliteConnection();
-            userRepository = new UserRepository(mockCouponManagementContext);
+            mockProductManagementContext = new Sqlite().CreateSqliteConnection();
+            userRepository = new UserRepository(mockProductManagementContext);
             mockUserDatas = new UserDatas();
         }
         [Test]
         public async Task GetAll_Valid_Returns()
         {
-            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockCouponManagementContext.SaveChangesAsync();
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             var getAllUser = await userRepository.GetAll();
             Assert.That(getAllUser, Is.Not.Null);
             Assert.That(getAllUser.Count, Is.EqualTo(2));
@@ -37,8 +37,8 @@ namespace ProductTest.Repository
         [Test]
         public async Task GetUser_Valid_Returns()
         {
-            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockCouponManagementContext.SaveChangesAsync();
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             var getUserById = await userRepository.ViewProfile(10);
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById.UserId, Is.EqualTo(10));
@@ -46,8 +46,8 @@ namespace ProductTest.Repository
         [Test]
         public async Task InsertUser_valid_Returns()
         {
-            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockCouponManagementContext.SaveChangesAsync();
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             var getUserById = await userRepository.UserRegister(
                 new UserDetails()
                 {
@@ -69,8 +69,8 @@ namespace ProductTest.Repository
         [Test]
         public async Task UpdateUser_valid_Returns()
         {
-            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockCouponManagementContext.SaveChangesAsync();
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             var getUserById = await userRepository.UpdateProfile(
                 new UserDetails()
                 {
