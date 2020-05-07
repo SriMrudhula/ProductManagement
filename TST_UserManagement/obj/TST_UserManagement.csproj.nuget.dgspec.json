@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj": {}
+    "F:\\New folder\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj": {}
   },
   "projects": {
-    "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -80,17 +80,17 @@
         }
       }
     },
-    "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,17 +138,75 @@
         }
       }
     },
-    "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
-        "projectName": "TST_UserManagement",
-        "projectPath": "F:\\Project\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\TST_UserManagement\\obj\\",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectName": "SHR_Utility",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "projectName": "UserManagement",
+        "projectPath": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,11 +219,101 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
               },
-              "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              },
+              "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.12.1, )"
+            },
+            "Microsoft.Extensions.Logging.Log4net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\New folder\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+        "projectName": "TST_UserManagement",
+        "projectPath": "F:\\New folder\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\TST_UserManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              },
+              "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              },
+              "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj"
               }
             }
           }
@@ -195,6 +343,10 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.20, )"
@@ -221,6 +373,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

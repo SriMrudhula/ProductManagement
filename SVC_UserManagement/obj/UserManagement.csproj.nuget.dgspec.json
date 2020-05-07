@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
+    "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -80,17 +80,17 @@
         }
       }
     },
-    "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,17 +138,17 @@
         }
       }
     },
-    "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,17 +196,17 @@
         }
       }
     },
-    "F:\\Project\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+    "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "F:\\Project\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SVC_UserManagement\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SVC_UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,14 +219,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
               },
-              "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               },
-              "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
-                "projectPath": "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
+              "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+                "projectPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
               }
             }
           }

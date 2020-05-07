@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
+    "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
   },
   "projects": {
-    "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Project\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

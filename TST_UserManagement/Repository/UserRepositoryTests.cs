@@ -5,56 +5,90 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using TST_UserManagement;
 using TST_UserManagement.Data;
 using UserManagement.Repository;
 
-namespace TST_UserManagement.Repository
+namespace ProductTest.Repository
 {
     [TestFixture]
-    class UserRepositoryTests
+    public class UserRepositoryTests
     {
         private IUserRepository userRepository;
-        private ProductDBContext mockProductManagementContext;
+        private ProductDBContext mockCouponManagementContext;
         private UserDatas mockUserDatas;
         [SetUp]
         public void Setup()
         {
-            mockProductManagementContext = new Sqlite().CreateSqliteConnection();
-            userRepository = new UserRepository(mockProductManagementContext);
+            mockCouponManagementContext = new Sqlite().CreateSqliteConnection();
+            userRepository = new UserRepository(mockCouponManagementContext);
             mockUserDatas = new UserDatas();
         }
         [Test]
-        public async Task GetAllUsers_Valid_Returns()
+        public async Task GetAll_Valid_Returns()
         {
-            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockProductManagementContext.SaveChangesAsync();
+            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockCouponManagementContext.SaveChangesAsync();
             var getAllUser = await userRepository.GetAll();
             Assert.That(getAllUser, Is.Not.Null);
             Assert.That(getAllUser.Count, Is.EqualTo(2));
 
         }
-
-
         [Test]
-        public async Task RegisterUser_Valid_Returns(UserDetails user)
+        public async Task GetUser_Valid_Returns()
         {
-            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
-            await mockProductManagementContext.SaveChangesAsync();
-            var register = await userRepository.UserRegister(new UserDetails()
-            {
-                UserId = 14,
-                UserName = "jyo2",
-                EmailAddr = "jyo@gmail.com",
-                UserPassword = "abc2",
-                UserAddress = "Chennai",
-                CreateDate = DateTime.Now,
-                UpdatedDate = DateTime.Now,
-                PhoneNumber = "9866451327",
-                FirstName = "Jyo1",
-                LastName = "Jyo1",
-            });
+            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockCouponManagementContext.SaveChangesAsync();
+            var getUserById = await userRepository.ViewProfile(10);
+            Assert.That(getUserById, Is.Not.Null);
+            Assert.That(getUserById.UserId, Is.EqualTo(10));
+        }
+        [Test]
+        public async Task InsertUser_valid_Returns()
+        {
+            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockCouponManagementContext.SaveChangesAsync();
+            var getUserById = await userRepository.UserRegister(
+                new UserDetails()
+                {
+                    UserId = 67,
+                    UserName = "Abc",
+                    EmailAddr = "Abc@gmail.com",
+                    UserPassword = "4545",
+                    UserAddress = "Ap",
+                    CreateDate = DateTime.Now,
+                    UpdatedDate = DateTime.Now,
+                    PhoneNumber = "9874563210",
+                    FirstName = "Abc",
+                    LastName = "Xyz"
+
+                });
+            Assert.That(getUserById, Is.Not.Null);
+            Assert.That(getUserById, Is.EqualTo(true));
+        }
+        [Test]
+        public async Task UpdateUser_valid_Returns()
+        {
+            mockCouponManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockCouponManagementContext.SaveChangesAsync();
+            var getUserById = await userRepository.UpdateProfile(
+                new UserDetails()
+                {
+                    UserId = 10,
+                    UserName = "Abc1",
+                    EmailAddr = "Abc1@gmail.com",
+                    UserPassword = "4545",
+                    UserAddress = "Ap",
+                    CreateDate = DateTime.Now,
+                    UpdatedDate = DateTime.Now,
+                    PhoneNumber = "9874563210",
+                    FirstName = "Abc1",
+                    LastName = "Xyz"
+
+                });
+            Assert.That(getUserById, Is.Not.Null);
+            Assert.That(getUserById, Is.EqualTo(true));
         }
 
     }
 }
-

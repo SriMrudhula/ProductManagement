@@ -12,3 +12,12 @@ F:\Project\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.Ass
 F:\Project\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
 F:\Project\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
 F:\Project\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\New folder\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\New folder\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\New folder\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\New folder\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
