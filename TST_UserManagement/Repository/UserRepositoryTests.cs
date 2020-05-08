@@ -35,6 +35,14 @@ namespace ProductTest.Repository
 
         }
         [Test]
+        public async Task GetAll_InValid_ReturnsNull()
+        {
+            mockProductManagementContext.UserDetails.AddRange(null);
+            await mockProductManagementContext.SaveChangesAsync();
+            var getAllUser = await userRepository.GetAll();
+            Assert.That(getAllUser, Is.Null);0
+        }
+        [Test]
         public async Task GetUser_Valid_Returns()
         {
             mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
@@ -61,7 +69,6 @@ namespace ProductTest.Repository
                     PhoneNumber = "9874563210",
                     FirstName = "Abc",
                     LastName = "Xyz"
-
                 });
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById, Is.EqualTo(true));
