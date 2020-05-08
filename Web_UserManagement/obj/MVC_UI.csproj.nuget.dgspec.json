@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj": {}
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj": {}
   },
   "projects": {
-    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
         "projectName": "MVC_UI",
-        "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

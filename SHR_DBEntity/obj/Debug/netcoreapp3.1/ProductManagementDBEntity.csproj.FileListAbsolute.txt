@@ -73,3 +73,18 @@ F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcore
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.deps.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.dev.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csprojAssemblyReference.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CoreCompileInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfoInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfo.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CopyComplete
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache

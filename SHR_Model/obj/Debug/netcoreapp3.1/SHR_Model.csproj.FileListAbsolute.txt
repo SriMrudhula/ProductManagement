@@ -43,3 +43,12 @@ F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
 F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.deps.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csprojAssemblyReference.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csproj.CoreCompileInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfoInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {}
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {}
   },
   "projects": {
-    "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -83,20 +80,17 @@
         }
       }
     },
-    "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,20 +138,17 @@
         }
       }
     },
-    "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
         "projectName": "ProductManagement",
-        "projectPath": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,8 +161,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
               }
             }
           }

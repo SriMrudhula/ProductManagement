@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {}
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {}
   },
   "projects": {
-    "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
