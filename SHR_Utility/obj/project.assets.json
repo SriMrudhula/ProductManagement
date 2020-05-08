@@ -5233,19 +5233,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+      "projectUniqueName": "C:\\NewCopy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
       "projectName": "SHR_Utility",
-      "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\obj\\",
+      "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\NewCopy1\\ProductManagement\\SHR_Utility\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

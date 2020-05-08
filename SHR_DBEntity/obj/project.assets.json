@@ -1995,19 +1995,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "SHR_Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.0"
-        },
-        "compile": {
-          "bin/placeholder/SHR_Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SHR_Model.dll": {}
-        }
       }
     }
   },
@@ -6925,36 +6912,35 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "SHR_Model/1.0.0": {
-      "type": "project",
-      "path": "../SHR_Model/SHR_Model.csproj",
-      "msbuildProject": "../SHR_Model/SHR_Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.3",
-      "Microsoft.Extensions.Logging.Log4Net.AspNetCore >= 3.1.0",
-      "SHR_Model >= 1.0.0"
+      "Microsoft.Extensions.Logging.Log4Net.AspNetCore >= 3.1.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "projectUniqueName": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
       "projectName": "ProductManagementDBEntity",
-      "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
+      "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6967,8 +6953,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-              "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+            "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+              "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
             }
           }
         }
@@ -7019,5 +7005,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

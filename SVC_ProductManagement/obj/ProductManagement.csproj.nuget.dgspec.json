@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {}
+    "C:\\NewCopy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {}
   },
   "projects": {
-    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -80,75 +83,20 @@
         }
       }
     },
-    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "C:\\NewCopy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "projectName": "SHR_Model",
-        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+        "projectUniqueName": "C:\\NewCopy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
         "projectName": "ProductManagement",
-        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SVC_ProductManagement\\obj\\",
+        "projectPath": "C:\\NewCopy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\NewCopy1\\ProductManagement\\SVC_ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,8 +109,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
               }
             }
           }
