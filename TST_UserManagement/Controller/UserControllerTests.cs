@@ -58,7 +58,7 @@ namespace TST_UserManagement.Controller
         public async Task InsertUser_valid_Returns()
         {
             mockUserManagementHelper.Setup(d => d.UserRegister(It.IsAny<UserDetails>())).ReturnsAsync(true);
-            var result = await mockUserController.InsertUserRegister(new UserDetails()
+            var result = await mockUserController.UserRegister(new UserDetails()
             {
                 UserId = 67,
                 UserName = "Abc",

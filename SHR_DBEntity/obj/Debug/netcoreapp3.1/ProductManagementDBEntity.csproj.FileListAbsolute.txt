@@ -58,3 +58,18 @@ F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.deps.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.dev.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csprojAssemblyReference.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfoInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CopyComplete
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache

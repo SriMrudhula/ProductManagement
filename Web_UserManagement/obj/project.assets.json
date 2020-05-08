@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+      "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
       "projectName": "MVC_UI",
-      "projectPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
+      "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\MVC_UI.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\Web_UserManagement\\obj\\",
+      "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\Web_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

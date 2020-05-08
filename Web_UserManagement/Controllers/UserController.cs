@@ -23,7 +23,7 @@ namespace MVC_UI.Controllers
                 using (var response = await httpClient.GetAsync("http://localhost:50951/api/v1/ViewAllUsers"))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
-                   // userList = JsonConvert.DeserializeObject<List<UserDetails>>(apiResponse);
+                    userList = JsonConvert.DeserializeObject<List<UserDetails>>(apiResponse);
                 }
             }
             return View(userList);
@@ -52,6 +52,7 @@ namespace MVC_UI.Controllers
             return RedirectToAction("Index");
         }
         public ViewResult GetUser() => View();
+
         [HttpGet]
         public async Task<IActionResult> GetUser(int id)
         {
@@ -110,21 +111,23 @@ namespace MVC_UI.Controllers
             return View(user);
         }
         [HttpPost]
-        public async Task<IActionResult> Update(UserDetails userdetails)
+        public async Task<IActionResult> UpdateUser(UserDetails userdetails)
         {
             UserDetails user = new UserDetails();
             int userid = user.UserId;
             using (var httpClient = new HttpClient())
             {
                 var content = new MultipartFormDataContent();
-                content.Add(new StringContent(user.UserId.ToString()), "Empid");
-                content.Add(new StringContent(user.UserName), "UserName");
+                content.Add(new StringContent(user.UserId.ToString()), "Userid");
                 content.Add(new StringContent(user.FirstName), "FirstName");
                 content.Add(new StringContent(user.LastName), "LastName");
-                content.Add(new StringContent(user.EmailAddr), "Email Id");
-                content.Add(new StringContent(user.PhoneNumber), "Phone Number");
-                content.Add(new StringContent(user.CreateDate.ToString()), "Create Date");
-                content.Add(new StringContent(user.UpdatedDate.ToString()), "Updated Date");
+                content.Add(new StringContent(user.UserName), "UserName");
+                content.Add(new StringContent(user.UserPassword), "Password");
+                content.Add(new StringContent(user.CreateDate.ToString()), "CreateDate");
+                content.Add(new StringContent(user.UpdatedDate.ToString()), "UpdatedDate");
+                content.Add(new StringContent(user.PhoneNumber), "PhoneNumber");
+                content.Add(new StringContent(user.EmailAddr), "EmailAddress");
+                content.Add(new StringContent(user.UserAddress), "UserAddress");
 
                 using (var response = await httpClient.PutAsync("http://localhost:50951/api/v1/EditProfile/", content))
                 {

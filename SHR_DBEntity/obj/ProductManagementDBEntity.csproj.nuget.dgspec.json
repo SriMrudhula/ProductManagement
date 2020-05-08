@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {}
+    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {}
   },
   "projects": {
-    "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\NewCopy1\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "C:\\NewCopy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -59,6 +56,64 @@
               "target": "Package",
               "version": "[3.1.3, )"
             },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectName": "SHR_Model",
+        "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
               "version": "[3.1.0, )"

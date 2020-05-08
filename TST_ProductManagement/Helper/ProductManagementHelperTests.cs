@@ -1,6 +1,7 @@
 ﻿using Moq;
 using NUnit.Framework;
 using ProductManagement.Helper;
+using ProductManagementDBEntity.Models;
 using ProductManagementDBEntity.Repository;
 using System;
 using System.Collections.Generic;
@@ -32,7 +33,69 @@ namespace TST_ProductManagement.Helper
             Assert.That(result.Count, Is.GreaterThan(0));
             Assert.That(result.Count, Is.EqualTo(2));
         }
+
+
+        [Test]
+        public async Task GetAll_InValid_ReturnsNull()
+        {
+            mockProductRepository.Setup(d => d.GetAllProducts()).ReturnsAsync((List<Products>)(null));
+            var result = await productManagementHelper.GetAllProducts();
+            Assert.That(result, Is.Null);
+        }
+        //[Test]
+        //public async Task GetProducts_Valid_Returns()
+        //{
+        //    mockProductRepository.Setup(d => d.GetProducts(It.IsAny<int>())).ReturnsAsync(new Products());
+        //    var result = await productManagementHelper.GetProducts(10);
+        //    Assert.That(result, Is.Not.Null);
+        //    /*            Assert.That(result.UserId, Is.EqualTo(10));*/
+        //}
         
-       
+        //    [Test]
+        //public async Task GetUser_InValid_ReturnsNull()
+        //{
+        //    mockProductRepository.Setup(d => d.GetProducts(It.IsAny<int>())).ReturnsAsync((Products)(null));
+        //    var result = await productManagementHelper.GetProducts(1);
+        //    Assert.That(result, Is.Null);
+        //}
+        [Test]
+        public async Task AddProduct_valid_Returns()
+        {
+            mockProductRepository.Setup(d => d.AddProduct(It.IsAny<Products>())).ReturnsAsync(true);
+            var result = await productManagementHelper.AddProduct(new Products()
+            {
+                ProductId = 3,
+                ProductName = "Bangles",
+                ProductDesc = "Good",
+                ProductPrice = 1000,
+                ProducedDate = DateTime.Now,
+                ProductExpireDate = DateTime.Now,
+                CreateDate = DateTime.Now,
+                UpdatedDate = DateTime.Now,
+                UserId = 1
+            });
+            Assert.That(result, Is.Not.Null);
+            Assert.That(result, Is.EqualTo(true));
+        }
+        [Test]
+        public async Task UpdateProduct_valid_Returns()
+        {
+            mockProductRepository.Setup(d => d.UpdateProduct(It.IsAny<Products>())).ReturnsAsync(true);
+            var result = await productManagementHelper.UpdateProduct(new Products()
+            {
+                ProductId = 3,
+                ProductName = "Bangles",
+                ProductDesc = "Good",
+                ProductPrice = 1000,
+                ProducedDate = DateTime.Now,
+                ProductExpireDate = DateTime.Now,
+                CreateDate = DateTime.Now,
+                UpdatedDate = DateTime.Now,
+                UserId = 1
+            });
+            Assert.That(result, Is.Not.Null);
+            Assert.That(result, Is.EqualTo(true));
+        }
+
     }
 }

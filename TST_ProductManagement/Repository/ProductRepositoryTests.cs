@@ -38,12 +38,12 @@ namespace TST_ProductManagement.Repository
         {
             mockProductManagementContext.Products.AddRange(mockProductDatas.products);
             await mockProductManagementContext.SaveChangesAsync();
-            var getProductsById = await productRepository.GetProducts(1);
+            var getProductsById = await productRepository.GetProducts(8);
             Assert.That(getProductsById, Is.Not.Null);
             Assert.That(getProductsById.Count, Is.EqualTo(10));
         }
         [Test]
-        public async Task InsertUser_Valid_Returns()
+        public async Task AddProduct_Valid_Returns()
         {
             mockProductManagementContext.Products.AddRange(mockProductDatas.products);
             await mockProductManagementContext.SaveChangesAsync();

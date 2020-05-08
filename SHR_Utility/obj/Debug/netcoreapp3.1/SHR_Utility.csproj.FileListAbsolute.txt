@@ -30,3 +30,12 @@ F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb

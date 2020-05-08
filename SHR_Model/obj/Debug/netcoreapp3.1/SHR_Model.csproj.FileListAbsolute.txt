@@ -34,3 +34,12 @@ F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
 F:\Cloned Folder\Copy2(Work)\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.deps.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csprojAssemblyReference.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfoInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb

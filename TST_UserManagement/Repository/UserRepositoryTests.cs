@@ -40,7 +40,7 @@ namespace ProductTest.Repository
             mockProductManagementContext.UserDetails.AddRange(null);
             await mockProductManagementContext.SaveChangesAsync();
             var getAllUser = await userRepository.GetAll();
-            Assert.That(getAllUser, Is.Null);0
+            Assert.That(getAllUser, Is.Null);
         }
         [Test]
         public async Task GetUser_Valid_Returns()
