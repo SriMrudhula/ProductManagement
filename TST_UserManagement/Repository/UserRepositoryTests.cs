@@ -24,6 +24,10 @@ namespace ProductTest.Repository
             userRepository = new UserRepository(mockProductManagementContext);
             mockUserDatas = new UserDatas();
         }
+        /// <summary>
+        /// To get all user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_Valid_Returns()
         {
@@ -34,6 +38,10 @@ namespace ProductTest.Repository
             Assert.That(getAllUser.Count, Is.EqualTo(2));
 
         }
+        /// <summary>
+        /// To test for an exception while retrieving all user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_InValid_ReturnsNull()
         {
@@ -42,6 +50,10 @@ namespace ProductTest.Repository
             var getAllUser = await userRepository.GetAll();
             Assert.That(getAllUser, Is.Null);
         }
+        /// <summary>
+        /// To get details of a particular user by using userId
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetUser_Valid_Returns()
         {
@@ -51,6 +63,10 @@ namespace ProductTest.Repository
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById.UserId, Is.EqualTo(10));
         }
+        /// <summary>
+        /// For a new user to register
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task InsertUser_valid_Returns()
         {
@@ -73,6 +89,10 @@ namespace ProductTest.Repository
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById, Is.EqualTo(true));
         }
+        /// <summary>
+        /// To update details of a particular user by using userId
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task UpdateUser_valid_Returns()
         {

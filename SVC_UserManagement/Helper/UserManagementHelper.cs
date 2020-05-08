@@ -28,7 +28,11 @@ namespace UserManagement.Helper
         {
             _iUserRepository = iUserRepository;
         }
-
+        /// <summary>
+        /// For new user to register
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         public async Task<bool> UserRegister(UserDetails userDetails)
         {
             try
@@ -41,6 +45,11 @@ namespace UserManagement.Helper
                 throw;
             }
         }
+        /// <summary>
+        /// For user login by entering username and password
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
 
         public async Task<UserDetails> UserLogin(UserLogin user)
         {
@@ -61,7 +70,11 @@ namespace UserManagement.Helper
             }
             //return await _iUserRepository.UserLogin(userName, password);
         }
-
+        /// <summary>
+        /// To update details of a particular user
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         public async Task<bool> UpdateProfile(UserDetails userDetails)
         {
 
@@ -83,8 +96,13 @@ namespace UserManagement.Helper
 
         }
 
+        /// <summary>
+        /// To get details of a particular user by using userId
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
 
-       
+
 
         public async Task<UserDetails> ViewProfile(int userId)
         {
@@ -105,7 +123,10 @@ namespace UserManagement.Helper
             }
 
         }
-
+        /// <summary>
+        /// To get all user details
+        /// </summary>
+        /// <returns></returns>
         public async Task<List<UserDetails>> GetAll()
         {
             try

@@ -23,6 +23,10 @@ namespace TST_ProductManagement.Controller
             mockProductData = new ProductDatas();
             mockProductController = new ProductController(mockProductManagementHelper.Object);
         }
+        /// <summary>
+        ///  To Get all Products
+        /// </summary>
+        /// <returns></returns>
         [Test]   
         public async Task GetAll_Valid_Returns()
         {
@@ -32,6 +36,10 @@ namespace TST_ProductManagement.Controller
             /*            Assert.That(result.ToString().Length, Is.GreaterThan(0));
                         Assert.That(result.ToString().Length, Is.EqualTo(2));*/
         }
+        /// <summary>
+        /// To test for exception while getting all products
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_InValid_ReturnsNull()
         {
@@ -54,6 +62,11 @@ namespace TST_ProductManagement.Controller
         //    var result = await mockProductController.GetProducts(1);
         //    Assert.That(result, Is.Null);
         //}
+        /// <summary>
+        /// To add new product
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
         public async Task AddProduct_valid_Returns()
         {
@@ -73,8 +86,13 @@ namespace TST_ProductManagement.Controller
             Assert.That(result, Is.Not.Null);
             Assert.That(result.ToString(), Is.EqualTo(true));
         }
+        /// <summary>
+        /// To update existing product
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
-        public async Task UpdateUser_valid_Returns()
+        public async Task UpdateProduct_valid_Returns()
         {
             mockProductManagementHelper.Setup(d => d.UpdateProduct(It.IsAny<Products>())).ReturnsAsync(true);
             var result = await mockProductController.UpdateProduct(new Products()

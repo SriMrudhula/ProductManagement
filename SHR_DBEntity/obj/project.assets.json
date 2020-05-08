@@ -6942,19 +6942,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
       "projectName": "ProductManagementDBEntity",
-      "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
+      "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6967,8 +6971,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-              "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+            "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+              "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
             }
           }
         }

@@ -3032,29 +3032,16 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
-          "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.0",
-          "SHR_Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ProductManagementDBEntity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ProductManagementDBEntity.dll": {}
-        }
-      },
-      "SHR_Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
           "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.0"
         },
         "compile": {
-          "bin/placeholder/SHR_Model.dll": {}
+          "bin/placeholder/ProductManagementDBEntity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SHR_Model.dll": {}
+          "bin/placeholder/ProductManagementDBEntity.dll": {}
         }
       }
     }
@@ -9620,11 +9607,6 @@
       "type": "project",
       "path": "../SHR_DBEntity/ProductManagementDBEntity.csproj",
       "msbuildProject": "../SHR_DBEntity/ProductManagementDBEntity.csproj"
-    },
-    "SHR_Model/1.0.0": {
-      "type": "project",
-      "path": "../SHR_Model/SHR_Model.csproj",
-      "msbuildProject": "../SHR_Model/SHR_Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9637,19 +9619,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SVC_ProductManagement\\obj\\",
+      "projectPath": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9662,8 +9648,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-              "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+            "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+              "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
             }
           }
         }
@@ -9715,5 +9701,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

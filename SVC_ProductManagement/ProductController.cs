@@ -21,7 +21,7 @@ namespace ProductManagement
             _iProductManagementHelper = iproductManagementHelper;
         }
         /// <summary>
-        /// 
+        /// To retrieve products by using userId
         /// </summary>
         /// <param name="userId"></param>
         /// <returns></returns>
@@ -39,11 +39,10 @@ namespace ProductManagement
             }
         }
         /// <summary>
-        /// 
+        /// To add a new Product
         /// </summary>
         /// <param name="products"></param>
         /// <returns></returns>
-       
 
         [Route("AddProduct")]
         [HttpPost]
@@ -62,11 +61,11 @@ namespace ProductManagement
 
 
         /// <summary>
-        /// 
+        /// To update an existing product
         /// </summary>
         /// <param name="products"></param>
         /// <returns></returns>
-        
+
 
         [Route("UpdateProduct")]
         [HttpPut]
@@ -83,7 +82,7 @@ namespace ProductManagement
             }
         }
         /// <summary>
-        /// 
+        /// To delete a product by using productId
         /// </summary>
         /// <param name="productId"></param>
         /// <returns></returns>
@@ -104,7 +103,7 @@ namespace ProductManagement
         }
 
         /// <summary>
-        /// 
+        /// To retrieve all existing products
         /// </summary>
         /// <param name="All Products"></param>
         /// <returns></returns>

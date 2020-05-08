@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
+    "C:\\ProductManagement2\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
   },
   "projects": {
-    "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "C:\\ProductManagement2\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "C:\\ProductManagement2\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\Mrudula Cloned\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\ProductManagement2\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

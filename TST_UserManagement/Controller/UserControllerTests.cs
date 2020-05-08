@@ -23,6 +23,10 @@ namespace TST_UserManagement.Controller
             mockUserData = new UserDatas();
             mockUserController = new UserController(mockUserManagementHelper.Object);
         }
+        /// <summary>
+        /// To get all user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_Valid_Returns()
         {
@@ -32,6 +36,10 @@ namespace TST_UserManagement.Controller
 /*            Assert.That(result.ToString().Length, Is.GreaterThan(0));
             Assert.That(result.ToString().Length, Is.EqualTo(2));*/
         }
+        /// <summary>
+        /// To test for an exception while retrieving user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_InValid_ReturnsNull()
         {
@@ -39,6 +47,11 @@ namespace TST_UserManagement.Controller
             var result = await mockUserController.ViewAllUsers();
             Assert.That(result, Is.Null);
         }
+        /// <summary>
+        /// To get details of a particular user by using userId
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
         public async Task GetUser_Valid_Returns()
         {
@@ -47,6 +60,10 @@ namespace TST_UserManagement.Controller
             Assert.That(result, Is.Not.Null);
 
         }
+        /// <summary>
+        /// To test for an exception while getting user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetUser_InValid_ReturnsNull()
         {
@@ -54,6 +71,10 @@ namespace TST_UserManagement.Controller
             var result = await mockUserController.GetUser(1);
             Assert.That(result, Is.Null);
         }
+        /// <summary>
+        /// For a new user to register
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task InsertUser_valid_Returns()
         {
@@ -74,6 +95,10 @@ namespace TST_UserManagement.Controller
             Assert.That(result, Is.Not.Null);
             Assert.That(result.ToString(), Is.EqualTo(true));
         }
+        /// <summary>
+        /// To update details of an existing user
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task UpdateUser_valid_Returns()
         {

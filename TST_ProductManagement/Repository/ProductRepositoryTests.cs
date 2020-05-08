@@ -23,6 +23,10 @@ namespace TST_ProductManagement.Repository
             productRepository = new ProductRepository(mockProductManagementContext);
             mockProductDatas = new ProductDatas();
         }
+        /// <summary>
+        /// To get all products
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_Valid_Returns()
         {
@@ -33,6 +37,10 @@ namespace TST_ProductManagement.Repository
             Assert.That(getAllProducts.Count, Is.EqualTo(2));
 
         }
+        /// <summary>
+        /// To test for an exception while getting products
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetProducts_Valid_Returns()
         {
@@ -42,6 +50,11 @@ namespace TST_ProductManagement.Repository
             Assert.That(getProductsById, Is.Not.Null);
             Assert.That(getProductsById.Count, Is.EqualTo(10));
         }
+        /// <summary>
+        /// To add a new product
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
         public async Task AddProduct_Valid_Returns()
         {

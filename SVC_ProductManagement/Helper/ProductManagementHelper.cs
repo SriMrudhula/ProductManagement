@@ -25,7 +25,11 @@ namespace ProductManagement.Helper
             _iProductRepository = iProductRepository;
         }
 
+        /// <summary>
+        /// To get all existing products
+        /// </summary>
 
+        /// <returns></returns>
         public async Task<List<Products>> GetAllProducts()
         {
             try
@@ -37,7 +41,11 @@ namespace ProductManagement.Helper
                 throw;
             }
         }
-       
+        /// <summary>
+        /// To add a new product
+        /// </summary>
+        /// <param name="product"></param>
+        /// <returns></returns>
 
         public async Task<bool> AddProduct(Products product)
         {
@@ -51,7 +59,11 @@ namespace ProductManagement.Helper
                 throw;
             }
         }
-
+        /// <summary>
+        /// To retrieve products by using UserId
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
         public async Task<List<Products>> GetProducts(int userId)
         {
             try
@@ -70,7 +82,11 @@ namespace ProductManagement.Helper
             }
         }
 
-
+        /// <summary>
+        /// To Update an existing product
+        /// </summary>
+        /// <param name="product"></param>
+        /// <returns></returns>
         public async Task<bool> UpdateProduct(Products product)
         {
             try
@@ -83,7 +99,11 @@ namespace ProductManagement.Helper
                 throw;
             }
         }
-
+        /// <summary>
+        /// To delete a product by using productId
+        /// </summary>
+        /// <param name="productId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteProduct(int productId)
         {
             try

@@ -23,7 +23,10 @@ namespace UserManagement
         {
             _iUserManagementHelper = iUserManagementHelper;
         }
-        
+        /// <summary>
+        /// For new user to register
+        /// </summary>
+        /// <param name="userDetails"></param>
         [Route("UserRegister")]
         [HttpPost]
         public async Task<IActionResult> UserRegister(UserDetails userDetails)
@@ -40,7 +43,11 @@ namespace UserManagement
 
             }
         }
-
+        /// <summary>
+        /// For user login by entering username and password
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route("UserLogin/{userName}/{password}")]
 
@@ -59,7 +66,11 @@ namespace UserManagement
             }
         }
 
-
+        /// <summary>
+        /// To edit details of a particular user
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
 
         [Route("EditProfile")]
         [HttpPut]
@@ -76,7 +87,11 @@ namespace UserManagement
                 return NotFound(ex.InnerException.Message);
             }
         }
-
+        /// <summary>
+        /// To retrieve details of a particular by using userId
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("GetUser/{userId}")]
 
@@ -93,7 +108,10 @@ namespace UserManagement
             }
         }
 
-
+        /// <summary>
+        /// To retrieve all user details
+        /// </summary>
+        /// <returns></returns>
         [Route("ViewAllUsers")]
         [HttpGet]
         public async Task<IActionResult> ViewAllUsers()

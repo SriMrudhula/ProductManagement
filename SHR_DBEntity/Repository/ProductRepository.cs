@@ -15,7 +15,11 @@ namespace ProductManagementDBEntity.Repository
         {
             _productDbContext = productDbContext;
         }
-
+        /// <summary>
+        /// To add a new product
+        /// </summary>
+        /// <param name="product"></param>
+        /// <returns></returns>
         public async Task<bool> AddProduct(Products product)
         {
             try
@@ -33,7 +37,11 @@ namespace ProductManagementDBEntity.Repository
             }
 
         }
-
+        /// <summary>
+        /// To delete a product by using productId
+        /// </summary>
+        /// <param name="productId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteProduct(int productId)
         {
             try
@@ -52,6 +60,11 @@ namespace ProductManagementDBEntity.Repository
             }
 
         }
+        /// <summary>
+        /// To retrieve products by using userId
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
         public async Task<List<Products>> GetProducts(int userId)
         {
             try
@@ -63,7 +76,11 @@ namespace ProductManagementDBEntity.Repository
                 throw;
             }
         }
-
+        /// <summary>
+        /// To update an existing product 
+        /// </summary>
+        /// <param name="product"></param>
+        /// <returns></returns>
         public async Task<bool> UpdateProduct(Products product)
         {
             try
@@ -80,7 +97,10 @@ namespace ProductManagementDBEntity.Repository
                 throw;
             }
         }
-
+        /// <summary>
+        /// To retrieve all products
+        /// </summary>
+        /// <returns></returns>
         public async Task<List<Products>> GetAllProducts()
         {
             try

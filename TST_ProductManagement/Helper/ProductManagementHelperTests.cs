@@ -23,6 +23,10 @@ namespace TST_ProductManagement.Helper
             mockProductData = new ProductDatas();
             productManagementHelper = new ProductManagementHelper(mockProductRepository.Object);
         }
+        /// <summary>
+        /// To get all products
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_Valid_Returns()
         {
@@ -33,7 +37,10 @@ namespace TST_ProductManagement.Helper
             Assert.That(result.Count, Is.GreaterThan(0));
             Assert.That(result.Count, Is.EqualTo(2));
         }
-
+        /// <summary>
+        /// To test for exception while getting products
+        /// </summary>
+        /// <returns></returns>
 
         [Test]
         public async Task GetAll_InValid_ReturnsNull()
@@ -50,7 +57,7 @@ namespace TST_ProductManagement.Helper
         //    Assert.That(result, Is.Not.Null);
         //    /*            Assert.That(result.UserId, Is.EqualTo(10));*/
         //}
-        
+
         //    [Test]
         //public async Task GetUser_InValid_ReturnsNull()
         //{
@@ -58,6 +65,11 @@ namespace TST_ProductManagement.Helper
         //    var result = await productManagementHelper.GetProducts(1);
         //    Assert.That(result, Is.Null);
         //}
+        /// <summary>
+        /// To add new product
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
         public async Task AddProduct_valid_Returns()
         {
@@ -77,6 +89,11 @@ namespace TST_ProductManagement.Helper
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }
+        /// <summary>
+        /// To update an existing product
+        /// </summary>
+
+        /// <returns></returns>
         [Test]
         public async Task UpdateProduct_valid_Returns()
         {

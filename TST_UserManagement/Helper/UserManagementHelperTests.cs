@@ -25,6 +25,10 @@ namespace ProductTest.Helper
             mockUserData = new UserDatas();
             userManagementHelper = new UserManagementHelper(mockUserRepository.Object);
         }
+        /// <summary>
+        /// To get all user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_Valid_Returns()
         {
@@ -35,6 +39,10 @@ namespace ProductTest.Helper
             Assert.That(result.Count, Is.GreaterThan(0));
             Assert.That(result.Count, Is.EqualTo(2));
         }
+        /// <summary>
+        /// To test for an exception while retrieving user details
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetAll_InValid_ReturnsNull()
         {
@@ -42,6 +50,10 @@ namespace ProductTest.Helper
             var result = await userManagementHelper.GetAll();
             Assert.That(result, Is.Null);
         }
+        /// <summary>
+        /// To get details of a particular user
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task GetUser_Valid_Returns()
         {
@@ -50,14 +62,21 @@ namespace ProductTest.Helper
             Assert.That(result, Is.Not.Null);
 /*            Assert.That(result.UserId, Is.EqualTo(10));*/
         }
-        [
-            Test]
+        /// <summary>
+        /// To test for an exception while getting user details of a particular user
+        /// </summary>
+        /// <returns></returns>
+        [Test]
         public async Task GetUser_InValid_ReturnsNull()
         {
             mockUserRepository.Setup(d => d.ViewProfile(It.IsAny<int>())).ReturnsAsync((UserDetails)(null));
             var result = await userManagementHelper.ViewProfile(1);
             Assert.That(result, Is.Null);
         }
+        /// <summary>
+        /// For a new user to register
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task InsertUser_valid_Returns()
         {
@@ -78,6 +97,10 @@ namespace ProductTest.Helper
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }
+        /// <summary>
+        /// To update details of a particular user
+        /// </summary>
+        /// <returns></returns>
         [Test]
         public async Task UpdateUser_valid_Returns()
         {
