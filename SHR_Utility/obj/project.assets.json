@@ -5233,19 +5233,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+      "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
       "projectName": "SHR_Utility",
-      "projectPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Utility\\obj\\",
+      "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+      "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementDBEntity",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SHR_Utility", "..\SHR_Utility\SHR_Utility.csproj", "{01D2F444-C4DF-4E1E-95B7-3D7F122267DA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C28E9566-A774-42D0-A9D2-E8D4A51F989F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TST_ProductManagement", "..\TST_ProductManagement\TST_ProductManagement.csproj", "{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +31,16 @@ Global
 		{01D2F444-C4DF-4E1E-95B7-3D7F122267DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D2F444-C4DF-4E1E-95B7-3D7F122267DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D2F444-C4DF-4E1E-95B7-3D7F122267DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FE387B3-A42A-4FCB-B7DE-C1C41C40F058} = {C28E9566-A774-42D0-A9D2-E8D4A51F989F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6AF19B2C-AF07-43D5-8BCE-0C377091451C}

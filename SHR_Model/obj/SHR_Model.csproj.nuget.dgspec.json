@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {}
+    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {}
   },
   "projects": {
-    "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\Copy2(Work)\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
+        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Cloned\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
