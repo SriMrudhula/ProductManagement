@@ -110,6 +110,7 @@ namespace TST_ProductManagement.Helper
                 UpdatedDate = DateTime.Now,
                 UserId = 1
             });
+
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }

@@ -15,6 +15,7 @@ namespace ProductManagementDBEntity.Repository
         {
             _productDbContext = productDbContext;
         }
+
         /// <summary>
         /// To add a new product
         /// </summary>
@@ -101,6 +102,7 @@ namespace ProductManagementDBEntity.Repository
         /// To retrieve all products
         /// </summary>
         /// <returns></returns>
+        
         public async Task<List<Products>> GetAllProducts()
         {
             try

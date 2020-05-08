@@ -112,6 +112,7 @@ namespace UserManagement
         /// To retrieve all user details
         /// </summary>
         /// <returns></returns>
+        
         [Route("ViewAllUsers")]
         [HttpGet]
         public async Task<IActionResult> ViewAllUsers()

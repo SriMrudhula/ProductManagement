@@ -113,6 +113,7 @@ namespace ProductTest.Repository
                     LastName = "Xyz"
 
                 });
+
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById, Is.EqualTo(true));
         }

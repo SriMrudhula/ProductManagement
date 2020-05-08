@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "LoWRLaMA5s65mzoYfcOHrGdZAFgEWCnTQw5iNTvxk6Yjkk/Yee8PEMnXcmSQZw9XHHTvx7uCje1JD9WCeWMKmg==",
-  "success": false,
+  "dgSpecHash": "WmTRZ68ZE5nRw/BjFLmiGxsj+rXllRoOp/JdS7wE9Q0R2IAsvJEJkFVrh0IzYAaA9WXm8YlsfsJ+QO3wBSs9ug==",
+  "success": true,
   "projectFilePath": "C:\\ProductManagement2\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\benchmarkdotnet\\0.12.1\\benchmarkdotnet.0.12.1.nupkg.sha512",
@@ -187,15 +187,5 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\ProductManagement2\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

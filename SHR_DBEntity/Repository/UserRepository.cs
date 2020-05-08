@@ -18,6 +18,7 @@ namespace UserManagement.Repository
         {
             _productDBContext = productDBContext;
         }
+
         /// <summary>
         /// For user login by entering username and password
         /// </summary>
@@ -108,6 +109,7 @@ namespace UserManagement.Repository
         /// <returns></returns>
         public async Task<List<UserDetails>> GetAll()
         {
+
             try
             {
               //  return await _productDBContext.UserDetails.FromSqlRaw("Exec GetAllUsers").ToListAsync();

@@ -95,6 +95,7 @@ namespace TST_UserManagement.Controller
             Assert.That(result, Is.Not.Null);
             Assert.That(result.ToString(), Is.EqualTo(true));
         }
+
         /// <summary>
         /// To update details of an existing user
         /// </summary>

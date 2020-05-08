@@ -63,6 +63,7 @@ namespace TST_ProductManagement.Repository
             var getProductById = await productRepository.AddProduct(
                 new Products()
                 {
+
                     ProductId = 3,
                     ProductName = "Bangles",
                     ProductDesc = "Good",

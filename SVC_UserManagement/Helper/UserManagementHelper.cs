@@ -123,6 +123,7 @@ namespace UserManagement.Helper
             }
 
         }
+
         /// <summary>
         /// To get all user details
         /// </summary>

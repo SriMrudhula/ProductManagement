@@ -108,6 +108,7 @@ namespace ProductManagement.Helper
         {
             try
             {
+
                 bool product = await _iProductRepository.DeleteProduct(productId);
                 return product;
             }

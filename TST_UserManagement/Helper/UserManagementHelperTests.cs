@@ -118,6 +118,7 @@ namespace ProductTest.Helper
                 FirstName = "Abc1",
                 LastName = "Xyz"
             });
+
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }
