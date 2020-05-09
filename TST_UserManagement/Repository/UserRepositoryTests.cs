@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using ProductManagementDBEntity.Models;
 using ProductManagementDBEntity.Repository;
+using SHR_Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -116,6 +117,18 @@ namespace ProductTest.Repository
 
             Assert.That(getUserById, Is.Not.Null);
             Assert.That(getUserById, Is.EqualTo(true));
+        }
+        [Test]
+        public async Task UserLogin_Valid()
+        {
+
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
+            var user = new UserLogin { UserName = "hello1", UserPassword = "hello1" };
+            var result = userRepository.UserLogin(user);
+            Assert.NotNull(result);
+
+
         }
 
     }

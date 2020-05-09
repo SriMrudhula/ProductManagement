@@ -49,7 +49,7 @@ namespace UserManagement
         /// <param name="user"></param>
         /// <returns></returns>
         [HttpPost]
-        [Route("UserLogin/{userName}/{password}")]
+        [Route("UserLogin")]
 
         public async Task<IActionResult> UserLogin(UserLogin user)
         {
@@ -124,7 +124,7 @@ namespace UserManagement
             }
             catch (Exception e)
             {
-                throw;
+                return NotFound(e.InnerException.Message); 
             }
         }
     }

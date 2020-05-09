@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
+    "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
   },
   "projects": {
-    "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

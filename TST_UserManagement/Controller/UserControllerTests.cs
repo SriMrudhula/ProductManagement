@@ -1,8 +1,10 @@
-﻿using Moq;
+﻿using Microsoft.AspNetCore.Mvc;
+using Moq;
 using NUnit.Framework;
 using ProductManagementDBEntity.Models;
 using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using TST_UserManagement.Data;
@@ -31,10 +33,10 @@ namespace TST_UserManagement.Controller
         public async Task GetAll_Valid_Returns()
         {
             mockUserManagementHelper.Setup(d => d.GetAll()).ReturnsAsync(mockUserData.userDetails);
-            var result = await mockUserController.ViewAllUsers();
+            var result = (await mockUserController.ViewAllUsers()) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
-/*            Assert.That(result.ToString().Length, Is.GreaterThan(0));
-            Assert.That(result.ToString().Length, Is.EqualTo(2));*/
+            Assert.That(result.StatusCode, Is.EqualTo(200));
+            Assert.That(result.Value, Is.Not.Null);
         }
         /// <summary>
         /// To test for an exception while retrieving user details
@@ -44,19 +46,18 @@ namespace TST_UserManagement.Controller
         public async Task GetAll_InValid_ReturnsNull()
         {
             mockUserManagementHelper.Setup(d => d.GetAll()).ReturnsAsync((List<UserDetails>)(null));
-            var result = await mockUserController.ViewAllUsers();
+            var result = await mockUserController.ViewAllUsers() as NotFoundObjectResult;
             Assert.That(result, Is.Null);
         }
         /// <summary>
         /// To get details of a particular user by using userId
         /// </summary>
-
         /// <returns></returns>
         [Test]
         public async Task GetUser_Valid_Returns()
         {
-            mockUserManagementHelper.Setup(d => d.ViewProfile(It.IsAny<int>()));
-            var result = await mockUserController.GetUser(10);
+            mockUserManagementHelper.Setup(d => d.ViewProfile(It.IsAny<int>())).ReturnsAsync(new UserDetails());
+            var result = await mockUserController.GetUser(10) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
 
         }
@@ -64,11 +65,12 @@ namespace TST_UserManagement.Controller
         /// To test for an exception while getting user details
         /// </summary>
         /// <returns></returns>
+
         [Test]
         public async Task GetUser_InValid_ReturnsNull()
         {
             mockUserManagementHelper.Setup(d => d.ViewProfile(It.IsAny<int>())).ReturnsAsync((UserDetails)(null));
-            var result = await mockUserController.GetUser(1);
+            var result = await mockUserController.GetUser(1) as OkObjectResult;
             Assert.That(result, Is.Null);
         }
         /// <summary>
@@ -91,11 +93,10 @@ namespace TST_UserManagement.Controller
                 PhoneNumber = "9874563210",
                 FirstName = "Abc",
                 LastName = "Xyz"
-            });
+            }) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
-            Assert.That(result.ToString(), Is.EqualTo(true));
+            Assert.That(result, Is.EqualTo(true));
         }
-
         /// <summary>
         /// To update details of an existing user
         /// </summary>
@@ -116,9 +117,9 @@ namespace TST_UserManagement.Controller
                 PhoneNumber = "9874563210",
                 FirstName = "Abc1",
                 LastName = "Xyz"
-            });
+            }) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
-            Assert.That(result, Is.EqualTo(true));
+            Assert.That(result.ToString(), Is.EqualTo(true));
         }
     }
-    }
+}

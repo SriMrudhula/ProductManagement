@@ -1,4 +1,5 @@
-﻿using Moq;
+﻿using Microsoft.AspNetCore.Mvc;
+using Moq;
 using NUnit.Framework;
 using ProductManagement;
 using ProductManagement.Helper;
@@ -45,7 +46,7 @@ namespace TST_ProductManagement.Controller
         public async Task GetAll_InValid_ReturnsNull()
         {
             mockProductManagementHelper.Setup(d => d.GetAllProducts()).ReturnsAsync((List<Products>)(null));
-            var result = await mockProductController.GetAllProducts();
+            var result = await mockProductController.GetAllProducts() as OkObjectResult;
             Assert.That(result, Is.Null);
         }
         //[Test]
@@ -83,7 +84,7 @@ namespace TST_ProductManagement.Controller
                 CreateDate = DateTime.Now,
                 UpdatedDate = DateTime.Now,
                 UserId = 1
-            });
+            }) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
             Assert.That(result.ToString(), Is.EqualTo(true));
         }
@@ -107,7 +108,7 @@ namespace TST_ProductManagement.Controller
                 CreateDate = DateTime.Now,
                 UpdatedDate = DateTime.Now,
                 UserId = 1
-            });
+            }) as OkObjectResult;
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }

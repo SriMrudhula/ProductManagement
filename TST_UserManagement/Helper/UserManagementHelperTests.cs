@@ -10,6 +10,7 @@ using UserManagement.Repository;
 using Moq;
 using System.Threading.Tasks;
 using ProductManagementDBEntity.Models;
+using SHR_Model;
 
 namespace ProductTest.Helper
 {
@@ -62,6 +63,23 @@ namespace ProductTest.Helper
             Assert.That(result, Is.Not.Null);
 /*            Assert.That(result.UserId, Is.EqualTo(10));*/
         }
+        /// <summary>
+        /// to test user login is valid or not
+        /// </summary>
+        /// <returns></returns>
+        /*[Test]
+        public async Task Userlogin_valid_returns()
+        {
+            mockUserRepository.Setup(d => d.UserLogin(It.IsAny<String>())).returnsasync(default(string));
+            var result = await UserManagementHelper.UserLogin(new UserLogin()
+            {
+                UserName = "hello",
+                UserPassword = "hello"
+            });
+            Assert.That(result, Is.Not.Null);
+            Assert.That(result, Is.EqualTo(true));
+
+        }*/
         /// <summary>
         /// To test for an exception while getting user details of a particular user
         /// </summary>

@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SHR_DBEntity\ProductManagementDBEntity.csproj" />
+    <ProjectReference Include="..\SHR_Utility\SHR_Utility.csproj" />
     <ProjectReference Include="..\SVC_UserManagement\UserManagement.csproj" />
   </ItemGroup>
 

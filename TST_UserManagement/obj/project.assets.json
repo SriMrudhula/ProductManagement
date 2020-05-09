@@ -11163,24 +11163,25 @@
       "MySql.Data >= 8.0.20",
       "NUnit3TestAdapter >= 3.15.1",
       "ProductManagementDBEntity >= 1.0.0",
+      "SHR_Utility >= 1.0.0",
       "UserManagement >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
       "projectName": "TST_UserManagement",
-      "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\TST_UserManagement\\obj\\",
+      "projectPath": "F:\\Clone-9th\\ProductManagement\\TST_UserManagement\\TST_UserManagement.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "F:\\Clone-9th\\ProductManagement\\TST_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11193,11 +11194,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-              "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+            "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
             },
-            "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
-              "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj"
+            "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
+            },
+            "F:\\Clone-9th\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj"
             }
           }
         }
