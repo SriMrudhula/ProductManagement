@@ -102,6 +102,18 @@ namespace UserManagement.Repository
             }
 
         }
+        public async Task<int> GetIdByName(string name)
+        {
+            try
+            {
+               UserDetails user= await _productDBContext.UserDetails.SingleOrDefaultAsync(e=>e.UserName==name);
+                return user.UserId;
+            }
+            catch
+            {
+                throw;
+            }
+        }
 
         /// <summary>
         /// To retrieve all user details

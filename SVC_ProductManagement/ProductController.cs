@@ -81,7 +81,19 @@ namespace ProductManagement
                 return NotFound(ex.Message);
             }
         }
-
+        [HttpGet]
+        [Route("GetProductById/{productId}")]
+        public async Task<IActionResult> GetProductById(int productId)
+        {
+            try
+            {
+                return Ok(await _iProductManagementHelper.GetProductById(productId));
+            }
+            catch(Exception ex)
+            {
+                return Ok(ex.InnerException.Message);
+            }
+        }
         /// <summary>
         /// To delete a product by using productId
         /// </summary>

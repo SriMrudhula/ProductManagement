@@ -1,0 +1,684 @@
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.exe
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.dll
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\User\EditUser.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\MVC_UI\obj\Debug\netcoreapp3.1\Razor\Views\User\ViewDetails.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.exe
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\EditUser.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\ViewDetails.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.dll
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+C:\Jagadeswari\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.exe
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\EditUser.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\ViewDetails.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Project\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.exe
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\EditUser.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\ViewDetails.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Cloned Folder\Copy2(Work)\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.exe
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\GetUser.cshtml.g.cs
+F:\Cloned Folder\Mrudula Cloned\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UpdateUser.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.exe
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.deps.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.runtimeconfig.dev.json
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csprojAssemblyReference.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CoreCompileInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.MvcApplicationPartsAssemblyInfo.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorAssemblyInfo.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfoInputs.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.AssemblyInfo.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.input.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.TagHelpers.output.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorCoreGenerate.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\GetUser.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UpdateUser.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\UserRegister.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.RazorTargetAssemblyInfo.cs
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.Views.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.csproj.CopyComplete
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.Manifest.cache
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\MVC_UI.StaticWebAssets.xml
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.dll
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.pdb
+F:\Jagadeswari\ProductLocalWork\Ramya clone\ProductManagement\Web_UserManagement\obj\Debug\netcoreapp3.1\MVC_UI.genruntimeconfig.cache

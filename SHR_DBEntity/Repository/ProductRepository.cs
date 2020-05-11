@@ -47,7 +47,7 @@ namespace ProductManagementDBEntity.Repository
         {
             try
             {
-                Products product = await _productDbContext.Products.FindAsync(productId);
+                Products product = _productDbContext.Products.Find(productId);
                 _productDbContext.Products.Remove(product);
                 var product1 = await _productDbContext.SaveChangesAsync();
                 if (product1 > 0)
@@ -55,7 +55,7 @@ namespace ProductManagementDBEntity.Repository
                 else
                     return false;
             }
-            catch (Exception e)
+            catch
             {
                 throw;
             }
@@ -71,6 +71,17 @@ namespace ProductManagementDBEntity.Repository
             try
             {
                 return await _productDbContext.Products.Where(e => e.UserId == userId).ToListAsync();
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
+        public async Task<Products> GetProductById(int ProductId)
+        {
+            try
+            {
+                return await _productDbContext.Products.FindAsync(ProductId);
             }
             catch (Exception e)
             {

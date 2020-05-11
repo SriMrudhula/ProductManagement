@@ -11,6 +11,7 @@ namespace ProductManagement.Helper
     public interface IProductManagementHelper
     {
         Task<List<Products>> GetAllProducts();
+        public Task<Products> GetProductById(int ProductId);
         Task<bool> AddProduct(Products product);
         Task<List<Products>> GetProducts(int userId);
         Task<bool> UpdateProduct(Products product);
@@ -99,6 +100,17 @@ namespace ProductManagement.Helper
                 throw;
             }
         }
+        public async Task<Products> GetProductById(int ProductId)
+        {
+            try
+            {
+                return await _iProductRepository.GetProductById(ProductId);
+            }
+            catch
+            {
+                throw;
+            }
+        }
         /// <summary>
         /// To delete a product by using productId
         /// </summary>
@@ -109,8 +121,8 @@ namespace ProductManagement.Helper
             try
             {
 
-                bool product = await _iProductRepository.DeleteProduct(productId);
-                return product;
+                bool product1 = await _iProductRepository.DeleteProduct(productId);
+                return product1;
             }
             catch
             {

@@ -6071,19 +6071,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravi Teja\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_ProductManagement\\Web_ProductManagement.csproj",
-      "projectName": "Web_ProductManagement",
-      "projectPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_ProductManagement\\Web_ProductManagement.csproj",
-      "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-      "outputPath": "F:\\Jagadeswari\\ProductLocalWork\\Ramya clone\\ProductManagement\\Web_ProductManagement\\obj\\",
+      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\Web_UserManagement.csproj",
+      "projectName": "Web_UserManagement",
+      "projectPath": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\Web_UserManagement.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

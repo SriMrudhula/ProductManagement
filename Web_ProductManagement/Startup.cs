@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace Web_ProductManagement
+namespace MVC_UI
 {
     public class Startup
     {
@@ -23,6 +23,7 @@ namespace Web_ProductManagement
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,7 +47,7 @@ namespace Web_ProductManagement
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=User}/{action=UserLogin}/{id?}");
             });
         }
     }

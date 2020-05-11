@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Web_ProductManagement.Models;
+using MVC_UI.Models;
 
-namespace Web_ProductManagement.Controllers
+namespace MVC_UI.Controllers
 {
     public class HomeController : Controller
     {

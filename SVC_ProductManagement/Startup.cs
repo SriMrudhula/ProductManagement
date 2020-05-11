@@ -22,9 +22,9 @@ namespace ProductManagement
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            services.AddSingleton<IProductRepository, ProductRepository>();
-            services.AddSingleton<IProductManagementHelper, ProductManagementHelper>();
-            services.AddSingleton<ProductDBContext>();
+            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IProductManagementHelper, ProductManagementHelper>();
+            services.AddTransient<ProductDBContext>();
             services.AddControllers();
             services.AddControllersWithViews();
             services.AddSwaggerGen(c =>

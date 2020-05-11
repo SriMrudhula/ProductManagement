@@ -65,15 +65,28 @@ namespace UserManagement
 
             }
         }
-
+       [HttpGet]
+       [Route("GetIdByName/{name}")]
+       public async Task<IActionResult> GetIdByName(string name)
+        {
+            try
+            {
+                return Ok(await _iUserManagementHelper.GetIdByName(name));
+            }
+            catch(Exception ex)
+            {
+                return NotFound(ex.InnerException.Message);
+            }
+        }
         /// <summary>
         /// To edit details of a particular user
         /// </summary>
         /// <param name="userDetails"></param>
         /// <returns></returns>
 
+
+           [HttpPut]
         [Route("EditProfile")]
-        [HttpPut]
         public async Task<IActionResult> EditProfile(UserDetails userDetails)
         {
             try

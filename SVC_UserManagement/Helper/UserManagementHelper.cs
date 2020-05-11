@@ -10,8 +10,8 @@ namespace UserManagement.Helper
 {
     public interface IUserManagementHelper
     {
-        Task<UserDetails> UserLogin(UserLogin user);
-
+        Task<string> UserLogin(UserLogin user);
+        Task<int> GetIdByName(string name);
         Task<bool> UserRegister(UserDetails userDetails);
 
         Task<bool> UpdateProfile(UserDetails userDetails);
@@ -51,7 +51,7 @@ namespace UserManagement.Helper
         /// <param name="user"></param>
         /// <returns></returns>
 
-        public async Task<UserDetails> UserLogin(UserLogin user)
+        public async Task<string> UserLogin(UserLogin user)
         {
 
             try
@@ -59,10 +59,10 @@ namespace UserManagement.Helper
                 UserDetails userDetails = await _iUserRepository.UserLogin(user);
                 if (userDetails != null)
                 {
-                    return userDetails;
+                    return "Sucessfully Logged in";
                 }
                 else
-                    return null;
+                    return "Invalid User";
             }
             catch
             {
@@ -133,6 +133,18 @@ namespace UserManagement.Helper
             try
             {
                 return await _iUserRepository.GetAll();
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        public async Task<int> GetIdByName(string name)
+        {
+            try
+            {
+               return await _iUserRepository.GetIdByName(name);
             }
             catch
             {
