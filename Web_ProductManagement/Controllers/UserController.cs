@@ -85,8 +85,8 @@ namespace Web_ProductManagement.Controllers
                         apiResponse = await response.Content.ReadAsStringAsync();
                         userId = JsonConvert.DeserializeObject<Int32>(apiResponse);
                     }
-                    TempData["UserId"] = userId;
-                    int User =Convert.ToInt32(TempData["id"]);
+                    TempData["user"] = userId;
+                    int User =Convert.ToInt32(TempData["user"]);
                     return RedirectToAction("GetProducts", "Product", new { id = userId });
                 }
             }
@@ -105,7 +105,7 @@ namespace Web_ProductManagement.Controllers
 
                 }
             }
-            TempData["UserId"] = id;
+            TempData["id"] = id;
             return View(userDetails);
         }
 
@@ -121,7 +121,7 @@ namespace Web_ProductManagement.Controllers
                     userDetails = JsonConvert.DeserializeObject<UserDetails>(apiResponse);
                 }
             }
-            TempData["UserId"] = id;
+            TempData["id"] = id;
             return View(userDetails);
         }
 

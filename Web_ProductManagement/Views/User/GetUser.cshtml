@@ -73,6 +73,6 @@
     </dl>
 </div>
 <div>
-    @Html.ActionLink("Edit Profile", "EditUser", new { id = TempData["UserId"] }) |
-    @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["UserId"] }) |
+    @Html.ActionLink("Edit Profile", "EditUser", new { id = TempData["id"] }) |
+    @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["id"] }) |
 </div>

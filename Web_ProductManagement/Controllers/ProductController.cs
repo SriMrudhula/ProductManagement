@@ -39,18 +39,20 @@ namespace Web_ProductManagement.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddProduct(Products productDetails)
         {
-            productDetails.CreateDate = DateTime.Now;
-            productDetails.UserId= Convert.ToInt32(TempData["UserId"]);
+            Products product = productDetails;
+            int userId = Convert.ToInt32(TempData["user"]);
+            product.CreateDate = DateTime.Now;
+            product.UserId= userId;
             using (var httpClient = new HttpClient())
             {
-                StringContent content = new StringContent(JsonConvert.SerializeObject(productDetails), Encoding.UTF8, "application/json");
+                StringContent content = new StringContent(JsonConvert.SerializeObject(product), Encoding.UTF8, "application/json");
 
                 using (var response = await httpClient.PostAsync("http://localhost:50898/api/v1/AddProduct/", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                 }
             }
-            return RedirectToAction("GetProducts", new { id=TempData["UserId"]});
+            return RedirectToAction("GetProducts", new { id=product.UserId});
         }
         public ViewResult GetProducts() => View();
 
@@ -66,7 +68,7 @@ namespace Web_ProductManagement.Controllers
                     productList = JsonConvert.DeserializeObject<List<Products>>(apiResponse);
                 }
             }
-            TempData["UserId"] = id; 
+            TempData["id"] = id; 
             return View(productList);
         }
         public ViewResult GetProductById() => View();
@@ -82,7 +84,7 @@ namespace Web_ProductManagement.Controllers
                     productList = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
-            TempData["UserId"] = id;
+            TempData["id"] = productList.UserId;
             return View(productList);
         }
         [HttpGet]
@@ -97,7 +99,7 @@ namespace Web_ProductManagement.Controllers
                     productDetails = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
-            TempData["UserId"] = id;
+            TempData["id"] =productDetails.UserId;
             return View(productDetails);
         }
         [HttpPost]
@@ -126,7 +128,7 @@ namespace Web_ProductManagement.Controllers
                     productDetails = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
-            TempData["UserId"] = productDetails.UserId;
+            TempData["id"] = productDetails.UserId;
             return View(productDetails);
         }
         [HttpPost, ActionName("DeleteProduct")]
@@ -140,7 +142,7 @@ namespace Web_ProductManagement.Controllers
                     string apiResponse = await response.Content.ReadAsStringAsync();
                 }
             }
-            return RedirectToAction("GetProducts","Product", new { id =TempData["UserId"] });
+            return RedirectToAction("GetProducts","Product", new { id =TempData["user"] });
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
+    "F:\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
   },
   "projects": {
-    "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "F:\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "F:\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectPath": "F:\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\obj\\",
+        "outputPath": "F:\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

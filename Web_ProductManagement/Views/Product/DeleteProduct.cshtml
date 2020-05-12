@@ -69,7 +69,7 @@
     
     <form asp-action="DeleteProduct">
         <input type="submit" value="Delete" class="btn btn-danger" /> |
-        @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = Model.UserId }) |
+        @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["id"] }) |
      
     </form>
 </div>

@@ -67,7 +67,7 @@
     </dl>
 </div>
 <div>
-    @Html.ActionLink("Edit", "UpdateProduct", new { id = Model.UserId }) |
-    @Html.ActionLink("Back to List", "GetProducts", new { id = Model.UserId }) |
+    @Html.ActionLink("Edit", "UpdateProduct", new { id = Model.ProductId }) |
+    @Html.ActionLink("Back to List", "GetProducts", new { id = TempData["id"] }) |
 
 </div>
