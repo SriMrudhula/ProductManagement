@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Web_UserManagement.Models;
 using Newtonsoft.Json;
 using System.Text;
-using Microsoft.AspNetCore.Http;
+using System.Web;
 namespace Web_ProductManagement.Controllers
 {
     public class ProductController : Controller
@@ -33,13 +33,14 @@ namespace Web_ProductManagement.Controllers
         {
             return View();
         }
+        
         // POST: User/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddProduct(Products productDetails)
         {
             productDetails.CreateDate = DateTime.Now;
-            Products productDetails1 = new Products();
+            productDetails.UserId= Convert.ToInt32(TempData["UserId"]);
             using (var httpClient = new HttpClient())
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(productDetails), Encoding.UTF8, "application/json");
@@ -47,12 +48,9 @@ namespace Web_ProductManagement.Controllers
                 using (var response = await httpClient.PostAsync("http://localhost:50898/api/v1/AddProduct/", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
-                    productDetails1 = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
-            /*            return RedirectToAction("Index");*/
-                   
-            return RedirectToAction("GetProducts", new { id=productDetails.UserId});
+            return RedirectToAction("GetProducts", new { id=TempData["UserId"]});
         }
         public ViewResult GetProducts() => View();
 
@@ -68,10 +66,10 @@ namespace Web_ProductManagement.Controllers
                     productList = JsonConvert.DeserializeObject<List<Products>>(apiResponse);
                 }
             }
+            TempData["UserId"] = id; 
             return View(productList);
         }
         public ViewResult GetProductById() => View();
-
         [HttpGet]
         public async Task<IActionResult> GetProductById(int id)
         {
@@ -84,6 +82,7 @@ namespace Web_ProductManagement.Controllers
                     productList = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
+            TempData["UserId"] = id;
             return View(productList);
         }
         [HttpGet]
@@ -98,6 +97,7 @@ namespace Web_ProductManagement.Controllers
                     productDetails = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
+            TempData["UserId"] = id;
             return View(productDetails);
         }
         [HttpPost]
@@ -126,9 +126,9 @@ namespace Web_ProductManagement.Controllers
                     productDetails = JsonConvert.DeserializeObject<Products>(apiResponse);
                 }
             }
+            TempData["UserId"] = productDetails.UserId;
             return View(productDetails);
         }
-
         [HttpPost, ActionName("DeleteProduct")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteProduct(int id)
@@ -140,8 +140,7 @@ namespace Web_ProductManagement.Controllers
                     string apiResponse = await response.Content.ReadAsStringAsync();
                 }
             }
-            return RedirectToAction("GetProducts", new { id =id });
+            return RedirectToAction("GetProducts","Product", new { id =TempData["UserId"] });
         }
-
     }
 }

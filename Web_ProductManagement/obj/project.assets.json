@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\Web_UserManagement.csproj",
+      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
       "projectName": "Web_UserManagement",
-      "projectPath": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\Web_UserManagement.csproj",
+      "projectPath": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\Clone-9th\\ProductManagement\\Web_UserManagement\\obj\\",
+      "outputPath": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

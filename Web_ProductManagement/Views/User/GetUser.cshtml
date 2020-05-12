@@ -73,6 +73,6 @@
     </dl>
 </div>
 <div>
-    @*@Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |*@
-    <a asp-action="Index">Back to List</a>
+    @Html.ActionLink("Edit Profile", "EditUser", new { id = TempData["UserId"] }) |
+    @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["UserId"] }) |
 </div>

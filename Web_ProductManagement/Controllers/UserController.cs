@@ -17,6 +17,7 @@ namespace Web_ProductManagement.Controllers
     public class UserController : Controller
     { 
         public static string url = "https://localhost:50951/api/v1/";
+        
         // GET: User
         public async Task<IActionResult> Index()
         {
@@ -45,10 +46,9 @@ namespace Web_ProductManagement.Controllers
             using (var httpClient = new HttpClient())
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(user), System.Text.Encoding.UTF8, "application/json");
-                using (var response = await httpClient.PostAsync("http://localhost:50951/api/v1/InsertUserRegister/", content))
+                using (var response = await httpClient.PostAsync("http://localhost:50951/api/v1/UserRegister/", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
-                    //userDetails1 = JsonConvert.DeserializeObject<UserDetails>(apiResponse);
                 }
             }
             return RedirectToAction("UserLogin");
@@ -72,7 +72,10 @@ namespace Web_ProductManagement.Controllers
                 }
             }
             if (apiResponse.Equals("Invalid User"))
-                return RedirectToAction("UserLogin");
+            {
+                ViewBag.Message = String.Format("Invaild User");
+                return View();
+            }
             else
             {
                 using (var httpClient = new HttpClient())
@@ -83,11 +86,12 @@ namespace Web_ProductManagement.Controllers
                         userId = JsonConvert.DeserializeObject<Int32>(apiResponse);
                     }
                     TempData["UserId"] = userId;
-                    return RedirectToAction("GetProducts", "Product",new {id=userId});
+                    int User =Convert.ToInt32(TempData["id"]);
+                    return RedirectToAction("GetProducts", "Product", new { id = userId });
                 }
             }
         }
-            public ViewResult GetUser() => View();
+        public ViewResult GetUser() => View();
         [HttpGet]
         public async Task<IActionResult> GetUser(int id)
         {
@@ -101,6 +105,7 @@ namespace Web_ProductManagement.Controllers
 
                 }
             }
+            TempData["UserId"] = id;
             return View(userDetails);
         }
 
@@ -116,6 +121,7 @@ namespace Web_ProductManagement.Controllers
                     userDetails = JsonConvert.DeserializeObject<UserDetails>(apiResponse);
                 }
             }
+            TempData["UserId"] = id;
             return View(userDetails);
         }
 
@@ -131,10 +137,9 @@ namespace Web_ProductManagement.Controllers
                 using (var response = await httpClient.PutAsync("http://localhost:50951/api/v1/EditProfile/", content))
                 {
                     apiResponse = await response.Content.ReadAsStringAsync();
-                    /*  userDetails= JsonConvert.DeserializeObject<UserDetails>(apiResponse);*/
                 }
             }
-            return RedirectToAction("index");
+            return RedirectToAction("GetProducts", "Product", new { id = user.UserId });
         }
     }
 }

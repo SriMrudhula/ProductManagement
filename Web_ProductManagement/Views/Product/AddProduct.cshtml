@@ -23,7 +23,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="ProductPrice" class="control-label"></label>
-                <input asp-for="ProductPrice" class="form-control" />
+                <input type="number" asp-for="ProductPrice" class="form-control" />
                 <span asp-validation-for="ProductPrice" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -37,15 +37,15 @@
                 <span asp-validation-for="ProductExpireDate" class="text-danger"></span>
             </div>
             @*<div class="form-group">
-                <label asp-for="CreateDate" class="control-label"></label>
-                <input asp-for="CreateDate" class="form-control" />
-                <span asp-validation-for="CreateDate" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="UpdatedDate" class="control-label"></label>
-                <input asp-for="UpdatedDate" class="form-control" />
-                <span asp-validation-for="UpdatedDate" class="text-danger"></span>
-            </div>*@
+            <label asp-for="CreateDate" class="control-label"></label>
+            <input asp-for="CreateDate" class="form-control" />
+            <span asp-validation-for="CreateDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="UpdatedDate" class="control-label"></label>
+            <input asp-for="UpdatedDate" class="form-control" />
+            <span asp-validation-for="UpdatedDate" class="text-danger"></span>
+        </div>*@
             <div class="form-group">
                 <label asp-for="UserId" class="control-label"></label>
                 <input asp-for="UserId" class="form-control" />
@@ -55,11 +55,10 @@
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
-    </div>
+    </div>.,̣
 </div>
-
 <div>
-    <a asp-action="Index">Back to List</a>
+    @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["UserId"] }) |
 </div>
 
 @section Scripts {

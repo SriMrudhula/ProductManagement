@@ -119,8 +119,7 @@ namespace ProductManagement.Helper
         public async Task<bool> DeleteProduct(int productId)
         {
             try
-            {
-
+            { 
                 bool product1 = await _iProductRepository.DeleteProduct(productId);
                 return product1;
             }
@@ -129,6 +128,5 @@ namespace ProductManagement.Helper
                 throw;
             }
         }
-
     }
 }

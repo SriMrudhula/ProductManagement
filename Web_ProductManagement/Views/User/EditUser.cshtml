@@ -65,7 +65,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    @Html.ActionLink("Back to List","GetProducts", "Product", new { id = TempData["UserId"] }) |
 </div>
 
 @section Scripts {
