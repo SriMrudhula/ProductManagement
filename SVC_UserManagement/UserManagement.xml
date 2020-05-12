@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagement</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UserRegister(ProductManagementDBEntity.Models.UserDetails)">
+            <summary>
+            For new user to register
+            </summary>
+            <param name="userDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UserLogin(SHR_Model.UserLogin)">
+            <summary>
+            For user login by entering username and password
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UpdateProfile(ProductManagementDBEntity.Models.UserDetails)">
+            <summary>
+            To update details of a particular user
+            </summary>
+            <param name="userDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.ViewProfile(System.Int32)">
+            <summary>
+            To get details of a particular user by using userId
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.GetAll">
+            <summary>
+            To get all user details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.UserRegister(ProductManagementDBEntity.Models.UserDetails)">
+            <summary>
+            For new user to Register
+            </summary>
+            <param name="userDetails"></param>
+        </member>
+        <member name="M:UserManagement.UserController.UserLogin(SHR_Model.UserLogin)">
+            <summary>
+            Login into account by entering Username and Password
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.EditProfile(ProductManagementDBEntity.Models.UserDetails)">
+            <summary>
+            To edit details of a particular user
+            </summary>
+            <param name="userDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.GetUser(System.Int32)">
+            <summary>
+            To retrieve details of a particular by using userId
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.ViewAllUsers">
+            <summary>
+            To retrieve all user details
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

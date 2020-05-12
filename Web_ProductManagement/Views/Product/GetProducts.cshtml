@@ -27,12 +27,12 @@
             <th>
                 @Html.DisplayNameFor(model => model.ProductExpireDate)
             </th>
-            <th>
+            @*<th>
                 @Html.DisplayNameFor(model => model.CreateDate)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.UpdatedDate)
-            </th>
+            </th>*@
             <th></th>
         </tr>
     </thead>
@@ -56,12 +56,12 @@
             <td>
                 @Html.DisplayFor(modelItem => item.ProductExpireDate)
             </td>
-            <td>
+            @*<td>
                 @Html.DisplayFor(modelItem => item.CreateDate)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.UpdatedDate)
-            </td>
+            </td>*@
             <td>
                 @Html.ActionLink("Edit", "UpdateProduct", new { id = item.ProductId }) |
                 @Html.ActionLink("Details", "GetProductById", new { id = item.ProductId }) |

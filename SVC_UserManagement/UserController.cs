@@ -24,7 +24,7 @@ namespace UserManagement
             _iUserManagementHelper = iUserManagementHelper;
         }
         /// <summary>
-        /// For new user to register
+        /// For new user to Register
         /// </summary>
         /// <param name="userDetails"></param>
         [Route("UserRegister")]
@@ -44,7 +44,7 @@ namespace UserManagement
             }
         }
         /// <summary>
-        /// For user login by entering username and password
+        /// Login into account by entering Username and Password
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>

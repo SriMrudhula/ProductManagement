@@ -21,7 +21,7 @@ namespace ProductManagement
             _iProductManagementHelper = iproductManagementHelper;
         }
         /// <summary>
-        /// To retrieve products by using userId
+        /// To retrieve products by reading userId
         /// </summary>
         /// <param name="userId"></param>
         /// <returns></returns>
@@ -81,6 +81,12 @@ namespace ProductManagement
                 return NotFound(ex.Message);
             }
         }
+
+        /// <summary>
+        /// To get product by using productId
+        /// </summary>
+        /// <param name="productId"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("GetProductById/{productId}")]
         public async Task<IActionResult> GetProductById(int productId)

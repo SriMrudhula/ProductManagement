@@ -38,7 +38,7 @@ namespace MVC_UI
                 app.UseExceptionHandler("/Home/Error");
             }
             app.UseStaticFiles();
-			app.Session();
+			//app.Session();
             app.UseRouting();
 
             app.UseAuthorization();

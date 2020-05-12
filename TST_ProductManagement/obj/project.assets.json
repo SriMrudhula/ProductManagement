@@ -11036,19 +11036,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ProductManagement\\TST_ProductManagement\\TST_ProductManagement.csproj",
+      "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\TST_ProductManagement\\TST_ProductManagement.csproj",
       "projectName": "TST_ProductManagement",
-      "projectPath": "F:\\ProductManagement\\TST_ProductManagement\\TST_ProductManagement.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\ProductManagement\\TST_ProductManagement\\obj\\",
+      "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\TST_ProductManagement\\TST_ProductManagement.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\TST_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11061,11 +11061,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-              "projectPath": "F:\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+            "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+              "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
             },
-            "F:\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
-              "projectPath": "F:\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj"
+            "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj": {
+              "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj"
             }
           }
         }
