@@ -28,6 +28,8 @@ namespace UserManagement
         /// </summary>
         /// <param name="userDetails"></param>
         [Route("UserRegister")]
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         [HttpPost]
         public async Task<IActionResult> UserRegister(UserDetails userDetails)
         {
@@ -50,7 +52,8 @@ namespace UserManagement
         /// <returns></returns>
         [HttpPost]
         [Route("UserLogin")]
-
+        [ProducesResponseType(200, Type = typeof(string))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> UserLogin(UserLogin user)
         {
             try
@@ -65,9 +68,17 @@ namespace UserManagement
 
             }
         }
-       [HttpGet]
+
+        /// <summary>
+        /// To get id of a particular user by using userName
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        [HttpGet]
        [Route("GetIdByName/{name}")]
-       public async Task<IActionResult> GetIdByName(string name)
+       [ProducesResponseType(200,Type=typeof(int))]
+       [ProducesResponseType(404, Type = typeof(string))]
+        public async Task<IActionResult> GetIdByName(string name)
         {
             try
             {
@@ -87,6 +98,8 @@ namespace UserManagement
 
            [HttpPut]
         [Route("EditProfile")]
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> EditProfile(UserDetails userDetails)
         {
             try
@@ -107,7 +120,8 @@ namespace UserManagement
         /// <returns></returns>
         [HttpGet]
         [Route("GetUser/{userId}")]
-
+        [ProducesResponseType(200, Type = typeof(UserDetails))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> GetUser(int userId)
         {
             try
@@ -128,6 +142,8 @@ namespace UserManagement
         
         [Route("ViewAllUsers")]
         [HttpGet]
+        [ProducesResponseType(200, Type = typeof(List<UserDetails>))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> ViewAllUsers()
         {
             try

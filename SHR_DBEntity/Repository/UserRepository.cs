@@ -102,6 +102,11 @@ namespace UserManagement.Repository
             }
 
         }
+        /// <summary>
+        /// To get id of a particular user by using userName
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public async Task<int> GetIdByName(string name)
         {
             try

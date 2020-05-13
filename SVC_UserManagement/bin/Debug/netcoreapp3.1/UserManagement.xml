@@ -38,6 +38,13 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.GetIdByName(System.String)">
+            <summary>
+            To get id of a particular user by using userName
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
         <member name="M:UserManagement.UserController.UserRegister(ProductManagementDBEntity.Models.UserDetails)">
             <summary>
             For new user to Register
@@ -49,6 +56,13 @@
             Login into account by entering Username and Password
             </summary>
             <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.GetIdByName(System.String)">
+            <summary>
+            To get id of a particular user by using userName
+            </summary>
+            <param name="name"></param>
             <returns></returns>
         </member>
         <member name="M:UserManagement.UserController.EditProfile(ProductManagementDBEntity.Models.UserDetails)">

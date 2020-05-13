@@ -35,7 +35,7 @@ namespace UserManagement
             services.AddControllersWithViews();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1", Description = "Provides User Functionalities" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "UserManagement API", Version = "v1", Description = "Provides User Functionalities ,\r\n Repository Url: https://github.com/SriMrudhula/ProductManagement/tree/Developer/4BB/ProductManagement" });
 
                 // Set the comments path for the Swagger JSON and UI.
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";

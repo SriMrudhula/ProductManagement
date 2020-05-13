@@ -27,6 +27,8 @@ namespace ProductManagement
         /// <returns></returns>
         [Route("GetProducts/{userId}")]
         [HttpGet]
+        [ProducesResponseType(200, Type = typeof(List<Products>))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> GetProducts(int userId)
         {
             try
@@ -46,6 +48,8 @@ namespace ProductManagement
 
         [Route("AddProduct")]
         [HttpPost]
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> AddProduct(Products products)
         {
             try
@@ -69,6 +73,8 @@ namespace ProductManagement
 
         [Route("UpdateProduct")]
         [HttpPut]
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> UpdateProduct(Products products)
         {
             try
@@ -89,6 +95,8 @@ namespace ProductManagement
         /// <returns></returns>
         [HttpGet]
         [Route("GetProductById/{productId}")]
+        [ProducesResponseType(200, Type = typeof(Products))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> GetProductById(int productId)
         {
             try
@@ -108,6 +116,8 @@ namespace ProductManagement
 
         [Route("DeleteProduct/{productId}")]
         [HttpDelete]
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> DeleteProduct(int productId)
         {
             try
@@ -128,6 +138,8 @@ namespace ProductManagement
         /// <returns></returns>
         [Route("GetAllProducts")]
         [HttpGet]
+        [ProducesResponseType(200, Type = typeof(List<Products>))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> GetAllProducts()
         {
             try

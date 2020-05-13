@@ -106,7 +106,6 @@ namespace UserManagement.Helper
 
         public async Task<UserDetails> ViewProfile(int userId)
         {
-
             try
             {
                 UserDetails userDetails = await _iUserRepository.ViewProfile(userId);
@@ -139,7 +138,11 @@ namespace UserManagement.Helper
                 throw;
             }
         }
-
+        /// <summary>
+        /// To get id of a particular user by using userName
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public async Task<int> GetIdByName(string name)
         {
             try
