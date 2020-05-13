@@ -13,6 +13,7 @@ namespace ProductManagementDBEntity.Repository
 
         Task<UserDetails> UserLogin(UserLogin user);
         public Task<int> GetIdByName(string name);
+
         Task<bool> UserRegister(UserDetails userDetails);
         Task<bool> UpdateProfile(UserDetails userDetails);
         Task<UserDetails> ViewProfile(int userId);

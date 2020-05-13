@@ -112,5 +112,13 @@ namespace TST_ProductManagement.Controller
             Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }
+        //[Test]
+        //public async Task DeleteProduct_Valid_Return()
+        //{
+        //    mockProductManagementHelper.Setup(d => d.GetProducts(It.IsAny<int>()));
+        //    var result = await mockProductController.DeleteProduct(1);
+        //    Assert.That(result, Is.Null);
+
+        //}
     }
 }

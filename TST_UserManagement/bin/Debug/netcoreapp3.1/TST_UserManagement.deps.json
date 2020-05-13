@@ -17,6 +17,7 @@
           "MySql.Data": "8.0.20",
           "NUnit3TestAdapter": "3.15.1",
           "ProductManagementDBEntity": "1.0.0",
+          "SHR_Utility": "1.0.0",
           "UserManagement": "1.0.0",
           "NUnit": "3.12.0"
         },

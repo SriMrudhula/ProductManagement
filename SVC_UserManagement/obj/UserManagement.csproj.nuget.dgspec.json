@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
+    "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -80,17 +83,20 @@
         }
       }
     },
-    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,17 +144,20 @@
         }
       }
     },
-    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,17 +205,20 @@
         }
       }
     },
-    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+    "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\obj\\",
+        "projectPath": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,14 +231,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
               },
-              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               },
-              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
-                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
+              "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+                "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
               }
             }
           }

@@ -133,3 +133,18 @@ F:\Cloned Folder\UI Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.deps.json
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.json
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.runtimeconfig.dev.json
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.dll
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csprojAssemblyReference.cache
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CoreCompileInputs.cache
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfoInputs.cache
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.AssemblyInfo.cs
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.csproj.CopyComplete
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.dll
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.pdb
+C:\CaseStudy1\ProductManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\ProductManagementDBEntity.genruntimeconfig.cache

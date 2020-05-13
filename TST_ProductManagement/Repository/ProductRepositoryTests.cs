@@ -78,6 +78,14 @@ namespace TST_ProductManagement.Repository
             Assert.That(getProductById, Is.Not.Null);
             Assert.That(getProductById, Is.EqualTo(true));
         }
+        //[Test]
+        //public async Task DeleteProduct_Valid_Return()
+        //{
+        //    mockProductRepository.Setup(d => d.GetAllProducts()).ReturnsAsync(mockProductData.products);
+        //    var result = await productManagementHelper.DeleteProduct(1);
+        //    Assert.That(result, Is.Null);
 
+
+        //}
     }
 }

@@ -107,6 +107,7 @@ namespace TST_UserManagement.Controller
             mockUserManagementHelper.Setup(d => d.UpdateProfile(It.IsAny<UserDetails>())).ReturnsAsync(true);
             var result = await mockUserController.EditProfile(new UserDetails()
             {
+
                 UserId = 10,
                 UserName = "Abc1",
                 EmailAddr = "Abc1@gmail.com",
@@ -121,5 +122,6 @@ namespace TST_UserManagement.Controller
             Assert.That(result, Is.Not.Null);
             Assert.That(result.ToString(), Is.EqualTo(true));
         }
+
     }
 }

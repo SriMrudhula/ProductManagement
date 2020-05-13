@@ -6071,19 +6071,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+      "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
       "projectName": "Web_UserManagement",
-      "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\Web_ProductManagement\\obj\\",
+      "projectPath": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

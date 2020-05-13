@@ -79,3 +79,12 @@ F:\Cloned Folder\UI Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\S
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
 F:\Cloned Folder\UI Cloned\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb
+C:\CaseStudy1\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.deps.json
+C:\CaseStudy1\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.dll
+C:\CaseStudy1\ProductManagement\SHR_Model\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csprojAssemblyReference.cache
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.csproj.CoreCompileInputs.cache
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfoInputs.cache
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.AssemblyInfo.cs
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.dll
+C:\CaseStudy1\ProductManagement\SHR_Model\obj\Debug\netcoreapp3.1\SHR_Model.pdb

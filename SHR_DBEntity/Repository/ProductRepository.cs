@@ -23,6 +23,7 @@ namespace ProductManagementDBEntity.Repository
         /// <returns></returns>
         public async Task<bool> AddProduct(Products product)
         {
+
             try
             {
                 _productDbContext.Products.Add(product);

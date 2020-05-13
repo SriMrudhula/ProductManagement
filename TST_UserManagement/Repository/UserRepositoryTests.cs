@@ -15,6 +15,7 @@ namespace ProductTest.Repository
     [TestFixture]
     public class UserRepositoryTests
     {
+
         private IUserRepository userRepository;
         private ProductDBContext mockProductManagementContext;
         private UserDatas mockUserDatas;

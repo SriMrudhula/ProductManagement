@@ -29,6 +29,7 @@ namespace UserManagement.Repository
         {
             try
             {
+
                 UserDetails userDetails = await _productDBContext.UserDetails.SingleOrDefaultAsync(e => e.UserName == user.UserName && e.UserPassword == user.UserPassword);
                 if (userDetails == null)
                     return null;

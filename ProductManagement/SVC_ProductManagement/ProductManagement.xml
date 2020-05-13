@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductManagement</name>
+    </assembly>
+    <members>
+        <member name="M:ProductManagement.Helper.ProductManagementHelper.GetAllProducts">
+            <summary>
+            To get all existing products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.Helper.ProductManagementHelper.AddProduct(ProductManagementDBEntity.Models.Products)">
+            <summary>
+            To add a new product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.Helper.ProductManagementHelper.GetProducts(System.Int32)">
+            <summary>
+            To retrieve products by using UserId
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.Helper.ProductManagementHelper.UpdateProduct(ProductManagementDBEntity.Models.Products)">
+            <summary>
+            To Update an existing product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.Helper.ProductManagementHelper.DeleteProduct(System.Int32)">
+            <summary>
+            To delete a product by using productId
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.GetProducts(System.Int32)">
+            <summary>
+            To retrieve products by reading userId
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.AddProduct(ProductManagementDBEntity.Models.Products)">
+            <summary>
+            To add a new Product
+            </summary>
+            <param name="products"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.UpdateProduct(ProductManagementDBEntity.Models.Products)">
+            <summary>
+            To update an existing product
+            </summary>
+            <param name="products"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.GetProductById(System.Int32)">
+            <summary>
+            To get product by using productId
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.DeleteProduct(System.Int32)">
+            <summary>
+            To delete a product by using productId
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductManagement.ProductController.GetAllProducts">
+            <summary>
+            To retrieve all existing products
+            </summary>
+            <param name="All ProductsProducts"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

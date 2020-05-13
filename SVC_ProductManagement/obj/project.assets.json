@@ -9637,19 +9637,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_ProductManagement\\obj\\",
+      "projectPath": "C:\\CaseStudy1\\ProductManagement\\SVC_ProductManagement\\ProductManagement.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\CaseStudy1\\ProductManagement\\SVC_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9662,8 +9666,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-              "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+            "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+              "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
             }
           }
         }
