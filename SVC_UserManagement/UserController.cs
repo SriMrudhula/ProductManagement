@@ -23,9 +23,14 @@ namespace UserManagement
         {
             _iUserManagementHelper = iUserManagementHelper;
         }
-        [HttpPost]
+        /// <summary>
+        /// For new user to Register
+        /// </summary>
+        /// <param name="userDetails"></param>
         [Route("UserRegister")]
-
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
+        [HttpPost]
         public async Task<IActionResult> UserRegister(UserDetails userDetails)
         {
             try
@@ -36,14 +41,19 @@ namespace UserManagement
 
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return NotFound(ex.InnerException.Message);
 
             }
         }
-
+        /// <summary>
+        /// Login into account by entering Username and Password
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
-        [Route("UserLogin/{userName}/{password}")]
-
+        [Route("UserLogin")]
+        [ProducesResponseType(200, Type = typeof(string))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> UserLogin(UserLogin user)
         {
             try
@@ -59,12 +69,37 @@ namespace UserManagement
             }
         }
 
+        /// <summary>
+        /// To get id of a particular user by using userName
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        [HttpGet]
+       [Route("GetIdByName/{name}")]
+       [ProducesResponseType(200,Type=typeof(int))]
+       [ProducesResponseType(404, Type = typeof(string))]
+        public async Task<IActionResult> GetIdByName(string name)
+        {
+            try
+            {
+                return Ok(await _iUserManagementHelper.GetIdByName(name));
+            }
+            catch(Exception ex)
+            {
+                return NotFound(ex.InnerException.Message);
+            }
+        }
+        /// <summary>
+        /// To edit details of a particular user
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
 
 
-
-        [HttpPut]
+           [HttpPut]
         [Route("EditProfile")]
-
+        [ProducesResponseType(200, Type = typeof(bool))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> EditProfile(UserDetails userDetails)
         {
             try
@@ -78,10 +113,15 @@ namespace UserManagement
                 return NotFound(ex.InnerException.Message);
             }
         }
-
+        /// <summary>
+        /// To retrieve details of a particular by using userId
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("GetUser/{userId}")]
-
+        [ProducesResponseType(200, Type = typeof(UserDetails))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> GetUser(int userId)
         {
             try
@@ -95,10 +135,15 @@ namespace UserManagement
             }
         }
 
-
-
-        [HttpGet]
+        /// <summary>
+        /// To retrieve all user details
+        /// </summary>
+        /// <returns></returns>
+        
         [Route("ViewAllUsers")]
+        [HttpGet]
+        [ProducesResponseType(200, Type = typeof(List<UserDetails>))]
+        [ProducesResponseType(404, Type = typeof(string))]
         public async Task<IActionResult> ViewAllUsers()
         {
             try
@@ -108,7 +153,7 @@ namespace UserManagement
             }
             catch (Exception e)
             {
-                throw;
+                return NotFound(e.InnerException.Message); 
             }
         }
     }

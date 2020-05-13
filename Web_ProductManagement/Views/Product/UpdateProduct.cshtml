@@ -1,0 +1,68 @@
+﻿@model Web_UserManagement.Models.Products
+
+@{
+    ViewData["Title"] = "UpdateProduct";
+}
+<h1>UpdateProduct</h1>
+
+<h4>Products</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateProduct">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProductId" hidden class="control-label"></label>
+                <input asp-for="ProductId"  hidden readonly="readonly"  class="form-control" />
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductDesc" class="control-label"></label>
+                <input asp-for="ProductDesc" class="form-control" />
+                <span asp-validation-for="ProductDesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductPrice" class="control-label"></label>
+                <input asp-for="ProductPrice" class="form-control" />
+                <span asp-validation-for="ProductPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProducedDate" class="control-label"></label>
+                <input asp-for="ProducedDate" readonly="readonly" class="form-control" />
+                <span asp-validation-for="ProducedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductExpireDate" class="control-label"></label>
+                <input asp-for="ProductExpireDate" readonly="readonly" class="form-control" />
+                <span asp-validation-for="ProductExpireDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreateDate" hidden class="control-label"></label>
+                <input asp-for="CreateDate" hidden class="form-control" />
+                <span asp-validation-for="CreateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId"  class="control-label"></label>
+                <input asp-for="UserId" readonly="readonly" class="form-control" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "GetProducts", "Product", new { id = TempData["id"] }) |
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

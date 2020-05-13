@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Web_UserManagement.Models.Products>
+
+@{
+    ViewData["Title"] = "GetProducts";
+}
+
+<h1>GetProducts</h1>
+
+<p>
+    <a asp-action="AddProduct">Add Product</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductExpireDate)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedDate)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model)
+{
+   
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProducedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductExpireDate)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedDate)
+            </td>*@
+            <td>
+                @Html.ActionLink("Edit", "UpdateProduct", new { id = item.ProductId }) |
+                @Html.ActionLink("Details", "GetProductById", new { id = item.ProductId }) |
+                @Html.ActionLink("Delete", "DeleteProduct", new { id = item.ProductId })
+            </td>
+        </tr>
+}
+        <tr>
+            @Html.ActionLink("View Profile","GetUser","User", new { id =TempData["id"] }) |
+            @Html.ActionLink("Edit Profile","EditUser", "User", new { id =TempData["id"] }) |
+        </tr>
+
+    </tbody>
+</table>

@@ -19,6 +19,11 @@ namespace UserManagement.Repository
             _productDBContext = productDBContext;
         }
 
+        /// <summary>
+        /// For user login by entering username and password
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
 
         public async Task<UserDetails> UserLogin(UserLogin user)
         {
@@ -35,7 +40,11 @@ namespace UserManagement.Repository
                 throw;
             }
         }
-
+        /// <summary>
+        /// Used for new user to register
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         public async Task<bool> UserRegister(UserDetails userDetails)
         {
             try
@@ -53,7 +62,11 @@ namespace UserManagement.Repository
                 throw;
             }
         }
-
+        /// <summary>
+        /// To edit details of user
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         public async Task<bool> UpdateProfile(UserDetails userDetails)
         {
             try
@@ -71,12 +84,17 @@ namespace UserManagement.Repository
                 throw;
             }
         }
-
+        /// <summary>
+        /// To retrieve details of a particular user
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         public async Task<UserDetails> ViewProfile(int userId)
         {
             try
             {
-                return await _productDBContext.UserDetails.FindAsync(userId);
+                  return await _productDBContext.UserDetails.FindAsync(userId);
+                //return _productDBContext.UserDetails.FromSqlRaw("EXEC dbo.GetUserById @UserId", userId).ToListAsync().Result.FirstOrDefault();
             }
             catch (Exception e)
             {
@@ -84,13 +102,35 @@ namespace UserManagement.Repository
             }
 
         }
-
-
-        public async Task<List<UserDetails>> GetAll()
+        /// <summary>
+        /// To get id of a particular user by using userName
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        public async Task<int> GetIdByName(string name)
         {
             try
             {
-                return await _productDBContext.UserDetails.ToListAsync();
+               UserDetails user= await _productDBContext.UserDetails.SingleOrDefaultAsync(e=>e.UserName==name);
+                return user.UserId;
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        /// <summary>
+        /// To retrieve all user details
+        /// </summary>
+        /// <returns></returns>
+        public async Task<List<UserDetails>> GetAll()
+        {
+
+            try
+            {
+              //  return await _productDBContext.UserDetails.FromSqlRaw("Exec GetAllUsers").ToListAsync();
+                  return await _productDBContext.UserDetails.ToListAsync();
             }
             catch (Exception e)
             {

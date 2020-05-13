@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jagadeswari\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
         "projectName": "ProductManagementDBEntity",
-        "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\obj\\",
+        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-                "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
               }
             }
           }
@@ -55,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -76,17 +80,17 @@
         }
       }
     },
-    "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
         "projectName": "SHR_Model",
-        "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Model\\obj\\",
+        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,6 +113,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -128,17 +138,75 @@
         }
       }
     },
-    "C:\\Jagadeswari\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
-        "projectName": "UserManagement",
-        "projectPath": "C:\\Jagadeswari\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "C:\\Jagadeswari\\ProductManagement\\SVC_UserManagement\\obj\\",
+        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectName": "SHR_Utility",
+        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "projectName": "UserManagement",
+        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SVC_UserManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,8 +219,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-                "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+              },
+              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+              },
+              "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+                "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
               }
             }
           }
@@ -169,6 +243,10 @@
             "BenchmarkDotNet": {
               "target": "Package",
               "version": "[0.12.1, )"
+            },
+            "Microsoft.Extensions.Logging.Log4net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

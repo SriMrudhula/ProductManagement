@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jagadeswari\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {}
   },
   "projects": {
-    "C:\\Jagadeswari\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+    "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jagadeswari\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "projectUniqueName": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
         "projectName": "SHR_Utility",
-        "projectPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
-        "packagesPath": "C:\\Users\\Ravi Teja\\.nuget\\packages\\",
-        "outputPath": "C:\\Jagadeswari\\ProductManagement\\SHR_Utility\\obj\\",
+        "projectPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\Cloned Folder\\UI Cloned\\ProductManagement\\SHR_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ravi Teja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,9 +38,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "log4net": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
-              "version": "[2.0.8, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
