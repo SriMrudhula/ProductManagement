@@ -39,17 +39,6 @@ namespace TST_UserManagement.Controller
             Assert.That(result.Value, Is.Not.Null);
         }
         /// <summary>
-        /// To test for an exception while retrieving user details
-        /// </summary>
-        /// <returns></returns>
-        [Test]
-        public async Task GetAll_InValid_ReturnsNull()
-        {
-            mockUserManagementHelper.Setup(d => d.GetAll()).ReturnsAsync((List<UserDetails>)(null));
-            var result = await mockUserController.ViewAllUsers() as NotFoundObjectResult;
-            Assert.That(result, Is.Null);
-        }
-        /// <summary>
         /// To get details of a particular user by using userId
         /// </summary>
         /// <returns></returns>
@@ -62,25 +51,13 @@ namespace TST_UserManagement.Controller
 
         }
         /// <summary>
-        /// To test for an exception while getting user details
-        /// </summary>
-        /// <returns></returns>
-
-        [Test]
-        public async Task GetUser_InValid_ReturnsNull()
-        {
-            mockUserManagementHelper.Setup(d => d.ViewProfile(It.IsAny<int>())).ReturnsAsync((UserDetails)(null));
-            var result = await mockUserController.GetUser(1) as OkObjectResult;
-            Assert.That(result, Is.Null);
-        }
-        /// <summary>
         /// For a new user to register
         /// </summary>
         /// <returns></returns>
         [Test]
-        public async Task InsertUser_valid_Returns()
+        public async Task UserRegister_valid_Returns()
         {
-            mockUserManagementHelper.Setup(d => d.UserRegister(It.IsAny<UserDetails>())).ReturnsAsync(true);
+            mockUserManagementHelper.Setup(d => d.UserRegister(It.IsAny<UserDetails>())).ReturnsAsync(default(bool));
             var result = await mockUserController.UserRegister(new UserDetails()
             {
                 UserId = 67,
@@ -94,7 +71,6 @@ namespace TST_UserManagement.Controller
                 FirstName = "Abc",
                 LastName = "Xyz"
             }) as OkObjectResult;
-            Assert.That(result, Is.Not.Null);
             Assert.That(result, Is.EqualTo(true));
         }
         /// <summary>

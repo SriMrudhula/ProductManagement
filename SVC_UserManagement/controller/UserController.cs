@@ -19,14 +19,13 @@ namespace UserManagement.controller
             _iUserManagementAuthenticationManager = iUserManagementAuthenticationManager;
         }
         [AllowAnonymous]
-        [HttpPost("Authenticate")]
-        public IActionResult Authenticate([FromBody] UserLogin userLogin)
+        [HttpPost("UserLogin")]
+        public IActionResult UserLogin([FromBody] UserLogin userLogin)
         {
-            var token = _iUserManagementAuthenticationManager.Authenticate(userLogin.UserName, userLogin.UserPassword);
+            var token = _iUserManagementAuthenticationManager.UserLogin(userLogin.UserName, userLogin.UserPassword);
             if (token == null)
                 return Unauthorized();
             return Ok(token);
-
         }
 
     }

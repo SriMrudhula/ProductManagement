@@ -5233,19 +5233,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "projectUniqueName": "F:\\Clone-14th\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
       "projectName": "SHR_Model",
-      "projectPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_Model\\obj\\",
+      "projectPath": "F:\\Clone-14th\\ProductManagement\\SHR_Model\\SHR_Model.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "F:\\Clone-14th\\ProductManagement\\SHR_Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

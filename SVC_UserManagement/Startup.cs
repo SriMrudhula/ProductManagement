@@ -67,8 +67,9 @@ namespace UserManagement
                 app.UseDeveloperExceptionPage();
             }
             app.UseRouting();
-            app.UseAuthorization();
             app.UseAuthentication();
+            app.UseAuthorization();
+
             app.UseHttpsRedirection();
             //app.UseEndpoints(endpoints =>
             //{

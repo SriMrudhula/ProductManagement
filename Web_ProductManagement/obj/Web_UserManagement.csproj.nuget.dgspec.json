@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj": {}
+    "F:\\Clone-14th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj": {}
   },
   "projects": {
-    "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj": {
+    "F:\\Clone-14th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+        "projectUniqueName": "F:\\Clone-14th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
         "projectName": "Web_UserManagement",
-        "projectPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\Web_ProductManagement\\obj\\",
+        "projectPath": "F:\\Clone-14th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\Clone-14th\\ProductManagement\\Web_ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

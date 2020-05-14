@@ -41,18 +41,6 @@ namespace ProductTest.Repository
 
         }
         /// <summary>
-        /// To test for an exception while retrieving all user details
-        /// </summary>
-        /// <returns></returns>
-        [Test]
-        public async Task GetAll_InValid_ReturnsNull()
-        {
-            mockProductManagementContext.UserDetails.AddRange(null);
-            await mockProductManagementContext.SaveChangesAsync();
-            var getAllUser = await userRepository.GetAll();
-            Assert.That(getAllUser, Is.Null);
-        }
-        /// <summary>
         /// To get details of a particular user by using userId
         /// </summary>
         /// <returns></returns>

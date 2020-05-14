@@ -93,3 +93,12 @@ F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\n
 F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
 F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
 F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Clone-14th\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\Clone-14th\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Clone-14th\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Clone-14th\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb

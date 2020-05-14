@@ -17,7 +17,7 @@ namespace UserManagement
 
     [Route("api/v1")]
     [ApiController]
-  
+   // [Authorize]
     public class UserController :Controller
     {
         private readonly IUserManagementHelper _iUserManagementHelper;

@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using TST_ProductManagement.Data;
+using TST_UserManagement.Data;
 
 namespace TST_ProductManagement.Repository
 {
@@ -16,12 +17,14 @@ namespace TST_ProductManagement.Repository
         private IProductRepository productRepository;
         private ProductDBContext mockProductManagementContext;
         private ProductDatas mockProductDatas;
+        private UserDatas mockUserDatas;
         [SetUp]
         public void Setup()
         {
             mockProductManagementContext = new Sqlite().CreateSqliteConnection();
             productRepository = new ProductRepository(mockProductManagementContext);
             mockProductDatas = new ProductDatas();
+            mockUserDatas = new UserDatas();
         }
         /// <summary>
         /// To get all products
@@ -30,12 +33,13 @@ namespace TST_ProductManagement.Repository
         [Test]
         public async Task GetAll_Valid_Returns()
         {
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             mockProductManagementContext.Products.AddRange(mockProductDatas.products);
             await mockProductManagementContext.SaveChangesAsync();
             var getAllProducts = await productRepository.GetAllProducts();
             Assert.That(getAllProducts, Is.Not.Null);
             Assert.That(getAllProducts.Count, Is.EqualTo(2));
-
         }
         /// <summary>
         /// To test for an exception while getting products
@@ -44,11 +48,12 @@ namespace TST_ProductManagement.Repository
         [Test]
         public async Task GetProducts_Valid_Returns()
         {
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             mockProductManagementContext.Products.AddRange(mockProductDatas.products);
             await mockProductManagementContext.SaveChangesAsync();
-            var getProductsById = await productRepository.GetProducts(8);
-            Assert.That(getProductsById, Is.Not.Null);
-            Assert.That(getProductsById.Count, Is.EqualTo(10));
+            var getProducts = await productRepository.GetProducts(3);
+            Assert.That(getProducts, Is.Not.Null);
         }
         /// <summary>
         /// To add a new product
@@ -58,22 +63,22 @@ namespace TST_ProductManagement.Repository
         [Test]
         public async Task AddProduct_Valid_Returns()
         {
+            mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);
+            await mockProductManagementContext.SaveChangesAsync();
             mockProductManagementContext.Products.AddRange(mockProductDatas.products);
             await mockProductManagementContext.SaveChangesAsync();
             var getProductById = await productRepository.AddProduct(
                 new Products()
                 {
-
-                    ProductId = 3,
-                    ProductName = "Bangles",
+                    ProductId = 5,
+                    ProductName = "Bangles1",
                     ProductDesc = "Good",
                     ProductPrice = 1000,
                     ProducedDate = DateTime.Now,
                     ProductExpireDate = DateTime.Now,
                     CreateDate = DateTime.Now,
                     UpdatedDate = DateTime.Now,
-                    UserId = 1
-
+                    UserId = 10
                 });
             Assert.That(getProductById, Is.Not.Null);
             Assert.That(getProductById, Is.EqualTo(true));
