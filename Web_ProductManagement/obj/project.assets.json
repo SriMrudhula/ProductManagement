@@ -6071,23 +6071,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
       "projectName": "Web_UserManagement",
-      "projectPath": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\CaseStudy1\\ProductManagement\\Web_ProductManagement\\obj\\",
+      "projectPath": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\Web_UserManagement.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "F:\\Clone-9th\\ProductManagement\\Web_ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

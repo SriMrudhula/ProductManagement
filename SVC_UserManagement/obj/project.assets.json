@@ -9772,23 +9772,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\CaseStudy1\\ProductManagement\\SVC_UserManagement\\obj\\",
+      "projectPath": "F:\\Clone-9th\\ProductManagement\\SVC_UserManagement\\UserManagement.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "F:\\Clone-9th\\ProductManagement\\SVC_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9801,14 +9797,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
-              "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
+            "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj"
             },
-            "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-              "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+            "F:\\Clone-9th\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
             },
-            "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
-              "projectPath": "C:\\CaseStudy1\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
+            "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj": {
+              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Utility\\SHR_Utility.csproj"
             }
           }
         }

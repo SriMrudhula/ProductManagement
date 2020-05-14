@@ -1354,3 +1354,4 @@ C:\CaseStudy1\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_U
 C:\CaseStudy1\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.dll
 C:\CaseStudy1\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.pdb
 C:\CaseStudy1\ProductManagement\TST_UserManagement\obj\Debug\netcoreapp3.1\TST_UserManagement.genruntimeconfig.cache
+F:\Clone-9th\ProductManagement\TST_UserManagement\bin\Debug\netcoreapp3.1\UserManagement.xml

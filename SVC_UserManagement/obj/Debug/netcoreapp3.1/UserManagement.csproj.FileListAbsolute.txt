@@ -1616,3 +1616,4 @@ C:\CaseStudy1\ProductManagement\SVC_UserManagement\obj\Debug\netcoreapp3.1\UserM
 C:\CaseStudy1\ProductManagement\SVC_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\UserManagement.StaticWebAssets.Manifest.cache
 C:\CaseStudy1\ProductManagement\SVC_UserManagement\obj\Debug\netcoreapp3.1\staticwebassets\UserManagement.StaticWebAssets.xml
 C:\CaseStudy1\ProductManagement\SVC_UserManagement\obj\Debug\netcoreapp3.1\UserManagement.genruntimeconfig.cache
+F:\Clone-9th\ProductManagement\SVC_UserManagement\bin\Debug\netcoreapp3.1\UserManagement.xml

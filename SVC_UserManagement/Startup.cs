@@ -18,6 +18,7 @@ using log4net;
 using Microsoft.Extensions.Logging;
 using System.IO;
 using System.Reflection;
+using UserManagement.Authentication;
 
 namespace UserManagement
 {
@@ -33,6 +34,8 @@ namespace UserManagement
             services.AddTransient<ProductDBContext>();
             services.AddControllers();
             services.AddControllersWithViews();
+            services.AddAuthentication("Basic").AddScheme<BasicAuthenticationOptions,UserManagementAuthenticationHandler>("Basic", null);
+            services.AddSingleton<IUserManagementAuthenticationManager, UserManagementAuthenticationManager>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "UserManagement API", Version = "v1", Description = "Provides User Functionalities ,\r\n Repository Url: https://github.com/SriMrudhula/ProductManagement/tree/Developer/4BB/ProductManagement" });
@@ -55,8 +58,9 @@ namespace UserManagement
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseRouting();
+            app.UseAuthorization();
+            app.UseAuthentication();
             app.UseHttpsRedirection();
             //app.UseEndpoints(endpoints =>
             //{

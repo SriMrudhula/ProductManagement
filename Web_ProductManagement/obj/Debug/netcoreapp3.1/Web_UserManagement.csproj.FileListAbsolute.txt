@@ -716,3 +716,4 @@ C:\CaseStudy1\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\st
 C:\CaseStudy1\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Web_UserManagement.dll
 C:\CaseStudy1\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Web_UserManagement.pdb
 C:\CaseStudy1\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Web_UserManagement.genruntimeconfig.cache
+F:\Clone-9th\ProductManagement\Web_ProductManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs

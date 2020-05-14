@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BenchmarkDotNet.Reports;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProductManagementDBEntity.Models;
 using ProductManagementDBEntity.Repository;
@@ -16,7 +17,8 @@ namespace UserManagement
 
     [Route("api/v1")]
     [ApiController]
-    public class UserController : Controller
+  
+    public class UserController :Controller
     {
         private readonly IUserManagementHelper _iUserManagementHelper;
         public UserController(IUserManagementHelper iUserManagementHelper)

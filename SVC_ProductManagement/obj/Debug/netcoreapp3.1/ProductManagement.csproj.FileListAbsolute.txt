@@ -1248,3 +1248,4 @@ C:\CaseStudy1\ProductManagement\SVC_ProductManagement\obj\Debug\netcoreapp3.1\Pr
 C:\CaseStudy1\ProductManagement\SVC_ProductManagement\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.StaticWebAssets.Manifest.cache
 C:\CaseStudy1\ProductManagement\SVC_ProductManagement\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.StaticWebAssets.xml
 C:\CaseStudy1\ProductManagement\SVC_ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.genruntimeconfig.cache
+F:\Clone-9th\ProductManagement\SVC_ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.xml
