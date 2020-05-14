@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using ProductManagement.Extensions;
 using ProductManagement.Helper;
 using ProductManagementDBEntity.Models;
 using ProductManagementDBEntity.Repository;
@@ -23,7 +24,15 @@ namespace ProductManagement
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddMvcCore(
+              config =>
+              {
+
+                  config.Filters.Add(typeof(CustomExceptionFilter));
+
+              }
+            );
+            //services.AddMvc();
             services.AddTransient<IProductRepository, ProductRepository>();
             services.AddTransient<IProductManagementHelper, ProductManagementHelper>();
             services.AddTransient<ProductDBContext>();

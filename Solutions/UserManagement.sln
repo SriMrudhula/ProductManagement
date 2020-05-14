@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SHR_Utility", "..\SHR_Utili
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D2E69EF8-D3BD-4C33-9ADB-D558D06668B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TST_UserManagement", "..\TST_UserManagement\TST_UserManagement.csproj", "{2E15737B-1A7B-4B9C-9831-6B57F8A6D2B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TST_UserManagement", "..\TST_UserManagement\TST_UserManagement.csproj", "{2E15737B-1A7B-4B9C-9831-6B57F8A6D2B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6942,19 +6942,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "projectUniqueName": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
       "projectName": "ProductManagementDBEntity",
-      "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\Clone-9th\\ProductManagement\\SHR_DBEntity\\obj\\",
+      "projectPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_DBEntity\\ProductManagementDBEntity.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_DBEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6967,8 +6967,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Clone-9th\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
-              "projectPath": "F:\\Clone-9th\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
+            "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj": {
+              "projectPath": "F:\\Cloned Folder\\Authentication cloned\\ProductManagement\\SHR_Model\\SHR_Model.csproj"
             }
           }
         }

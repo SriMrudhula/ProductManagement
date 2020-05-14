@@ -84,3 +84,12 @@ C:\CaseStudy1\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.
 C:\CaseStudy1\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
 C:\CaseStudy1\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
 C:\CaseStudy1\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\Cloned Folder\Authentication cloned\ProductManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
