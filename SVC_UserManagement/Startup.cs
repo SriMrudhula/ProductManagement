@@ -32,9 +32,7 @@ namespace UserManagement
             services.AddMvcCore(
               config =>
               {
-
                   config.Filters.Add(typeof(CustomExceptionFilter));
-
               });
             //services.AddMvc();
             services.AddTransient<IUserRepository, UserRepository>();

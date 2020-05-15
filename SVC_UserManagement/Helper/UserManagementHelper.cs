@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
 namespace UserManagement.Helper
 {
     public interface IUserManagementHelper
@@ -13,12 +12,9 @@ namespace UserManagement.Helper
         Task<string> UserLogin(UserLogin user);
         Task<int> GetIdByName(string name);
         Task<bool> UserRegister(UserDetails userDetails);
-
         Task<bool> UpdateProfile(UserDetails userDetails);
-
         Task<UserDetails> ViewProfile(int userId);
         Task<List<UserDetails>> GetAll();
-
     }
     public class UserManagementHelper : IUserManagementHelper
     {

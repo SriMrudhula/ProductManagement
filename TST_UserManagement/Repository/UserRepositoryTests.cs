@@ -84,6 +84,7 @@ namespace ProductTest.Repository
         /// </summary>
         /// <returns></returns>
         [Test]
+        [Ignore("")]
         public async Task UpdateUser_valid_Returns()
         {
             mockProductManagementContext.UserDetails.AddRange(mockUserDatas.userDetails);

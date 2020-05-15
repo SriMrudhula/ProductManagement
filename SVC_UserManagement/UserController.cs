@@ -14,7 +14,6 @@ using UserManagement.Helper;
 
 namespace UserManagement
 {
-
     [Route("api/v1")]
     [ApiController]
    // [Authorize]
